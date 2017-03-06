@@ -1,9 +1,17 @@
+阅读部分提炼处观点(总结提炼依据,切勿找成support & detail，否则后面会与听力当中出现的点对不上)
+main point多出现在首段段尾
+sub point多出现在子段段首, 自查sub point的方法是判断是否支持main point
+之后在写作时
+*首段中*第一句话说明阅读部分的main point对所有sub point都是有好处的，紧接着第二句说明听力部分是反驳main point的观点
+*子段中*中每一段的第一句话概括一个sub point，之后用听力中听到的细节部分来对其进行具体的解释说明
 
 ... in the ways the readingsuggets.
 
 表同意观点
 *say*
 Firstly, the passage says that
+*insist*
+To begin with, the writer insists that 
 *claim*
 Secondly, the passage claims that
 *suggest*
@@ -14,7 +22,12 @@ The passage argues that
 *point out*
 However,the lecture points out (转折连词＋肯定表反义)
 opinion
-hold the view that
+*hold*
+The lecturer holds the view that
+*advocate*
+The writer advocates that
+*matian*
+The speaker, nontheless, matians that
 figure
 deem
 believe
@@ -37,8 +50,10 @@ be against
 连词部分
 不仅能使语句更通顺，逻辑关系更强，还能有效增加字数
 多积累连词，尽可能做到每句必有连词
-表原因
-*that is because*
+表原因(听力中的重点部分)
+*that/this is because*
+*because of/because that/because*
+*since*
 表比较
 *comparing to*
 Comparing to five-day workers, ...
@@ -46,5 +61,11 @@ Comparing to five-day workers, ...
 *In addition*
 表转折
 *admittedly..., but...*
+*nevertheless*
+The speaker, nontheless, matians that
 Admittedly, there are moe available jobs, but companies will prefer to let employees work overtime to finish
 them for hiring new staff is too expensive.
+表顺序
+*first of all*
+*to begin with*
+修饰主语
