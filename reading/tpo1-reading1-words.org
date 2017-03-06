@@ -1,25 +1,36 @@
 *groundwater*
 渗透
-saturate
+saturate (sat-满 u-中缀 ate-表v->)渗透
 soak
-permeate
+permeate (per-穿过 me-滑动 ate-表v 液体滑过去->)渗透
 permeable adj 可渗透的
-percolate 1) 循环
-          2) 渗透
+percolate 1) 循环 
+          2) 渗透 (per-穿过 col-过滤 ate-表v 过滤过去->)渗透
 
 meteorology 气象学
 meteorological 气象的
+meteoric (met/meta-在...之间 eor-悬浮 ic-表adj 悬浮在空中的->)大气的
 meteoric water 降水
 precipitate 1) 促进
-            2) 降水
+            2) 降水 (pre-在...之前 cip-头 it-走 ation-表n 头在前的走,降落->)降水,沉淀
             3) 沉淀
 
+remain (re-回back main-停留)保留	       
+
 沉淀
-deposite
-sediment
+deposite (de-向下 pos-放 it-表v 不断往下放->)沉淀
+sediment (sed-坐 i-中缀 ment-表n/v 不断往下坐->)沉淀
 precipitate
 
-particle 颗粒
+
+circulate (cir-圆 u-中缀 ate-表v)循环
+volume (volum/volut-卷动 e)容量
+
+tension (tens-拉伸 ion-表n) 张力
+
+exist (ex-向外 ist-站立sist->xist 站出来->)存在
+
+particle (part-部分 i-中缀 cle-表n,特指小)颗粒
 grain 1) 颗粒
       2) 谷物
 pebbie 鹅软石
@@ -50,21 +61,25 @@ cement 水泥
 concrete 1) 混凝土
          2) 具体的
 
-pore 孔
-porous 有孔的
-porosity 多孔性
+minute 1) adj (min-小 ute-表adj)小的 [my new t]
+       2) n 分钟 [mini t]   
+
+pore (por-钻 e 钻出来的->)孔
+porous (por-钻 ous-表adj)有孔的
+porosity (por-钻 osity-表n)多孔性
 
 at first thought 咋一想
 at first sight 咋一看
 
 plug v 插
      n 插头
+plugged (plug-交叉 g辅音双写 ed-表adj)塞满的
 
 proportion 比例
 portion 部分
 
-crystal 水晶
-crystalline 晶体状的
+crystal (cryst-水晶 al-表n)水晶
+crystalline (cryst-水晶 al-表n line-表adj)晶体状的
 basalt 玄武岩
 shale 页岩
 volcano 火山
@@ -74,14 +89,19 @@ lava 火山岩浆
 larva 幼虫
 
 solid 固体
-solidify 使凝固
+solidify (solid-坚固 ify-表v)使凝固
 solidary 团结一致的
 solidified 固定化的
+unconsolidated (un-不 con-加强语气 solid-坚固 ate-表n d-表adj ->)不坚固的
 
-cavity 洞穴
+dissolved (dis-分散 solv-松开loose ed-表adj) 溶解的
+
+cavity (cav-空 ity-表n ->)洞穴
 裂缝
 crevice
 fissure
+
+current (cur-奔跑 r辅音双写 ent-表n 不停在奔跑的东西->)水流
 
 cling to 1) 粘子...上
          2) 坚持做...
@@ -92,7 +112,7 @@ drain 1) 排水
 stream 小溪
 steam 蒸汽
 
-emerge 出现
+emerge (e/ex-向外 merg-沉没 e 沉没的东西出来了->)出现
 submerge 下沉
 conscious 有意识的
 subconscious 亚意识的
@@ -103,3 +123,7 @@ subtropic 亚热带
 load
 lade
 laden 载有...的 lade过去分词
+
+exception (ex-向外 + cept-拿 ion-n后缀 跟其他的不一样，得拿出来的->)特别
+expectation ()期望
+
