@@ -2,10 +2,18 @@
 main point多出现在首段段尾
 sub point多出现在子段段首, 自查sub point的方法是判断是否支持main point
 之后在写作时
-*首段中*第一句话说明阅读部分的main point对所有sub point都是有好处的，紧接着第二句说明听力部分是反驳main point的观点
+*首段中*
+思路一： 第一句话说明阅读部分的main point对所有sub point都是有好处的，紧接着第二句说明听力部分是反驳main point的观点
+思路二： 完全以lecture的角度去说，然后说用万能废话说lecture与passage的观点是完全不同的，例如：
+He says that the theory stated in the passage was very different and somewhat inaccurate when compared to
+what happened in reality.
 *子段中*中每一段的第一句话概括一个sub point，之后用听力中听到的细节部分来对其进行具体的解释说明
 
+万能废话
 ... in the ways the readingsuggets.
+This directly contradicts what the passage indicates.
+This was another place where experience contradicted theory.
+Their attitude was just the opposite of what the reading predicts.
 
 表同意观点
 *say*
@@ -28,6 +36,10 @@ The lecturer holds the view that
 The writer advocates that
 *matian*
 The speaker, nontheless, matians that
+*talk about*
+The lecturer talks about...
+*indicate*
+This also indicates that...
 figure
 deem
 believe
@@ -57,8 +69,15 @@ be against
 表比较
 *comparing to*
 Comparing to five-day workers, ...
+表结果,表结论
+So it won't surprise you to learn that...
 更进一步说明
 *In addition*
+*In other words*
+*Another finding was that*
+*On the other hand, there were other instances where* 
+另一方面，还有这样的例子(没有on the one hand也可以用on the other hand)
+*And then there was another occasion* 还会存在这样一种情况
 表转折
 *admittedly..., but...*
 *nevertheless*
@@ -68,4 +87,13 @@ them for hiring new staff is too expensive.
 表顺序
 *first of all*
 *to begin with*
-修饰主语
+修饰主语/名词
+1. n + 定义从句
+   Team members who have a voice in making a decision will no doubt feel better about arrying out the work
+   that is entailed by the decision.
+2. doing sth
+   Taking part in a group process can be very rewarding for members of the team.
+3. 主语从句
+   What one company found when it decided that it would turn over some of its new projects to teams of people.
+4. n + done + 定义从句
+The lecturer talks about research conducted by a firm that used the group-system to handle their work.
