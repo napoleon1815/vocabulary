@@ -1,8 +1,20 @@
-speculate 猜测
+
+origin (ori-升起 gin-表n ->)起源
+
+primary (prim-首要 ary-表adj ->)首要的
+ 
+speculate (spec/spect-看 ul-中缀 ate-表v 不停打量->)猜测
+
 champion n 冠军
          v 支持
-anthropologist 人类学专家
-envision 想象
+
+anthropologist(anthrop-人类 o-中缀 logist-表n表学者) 人类学专家
+
+alternation(alter-其他 nation-表n)交替
+
+envision (en-使 vis-看 ion-表n ->)想象
+
+evolve (e/ex-向外 volv-卷 e 事情都卷到外面来了->)发展,演变
 
 仪式
 ritual 宗教仪式
@@ -11,49 +23,66 @@ religious 宗教的
 ceremony 仪式(wedding ceremony)
 feat 宴会
 
-perceive 感知
+perceive (per-全部 ceiv/cept-拿 e 全部拿到->)感知
 become aware of 意识到
+
+attribute (at-加强 tribut-给 e 把...给->)v把...归于 n属性
+
+occurance (oc-加强 cur-跑 ance-表n 突然跑出来->)事件
+
+apparent (ap-加强 par-出现 ent-表adj ->)明显的
+
+frequently(frequ-数量 ent-表adj ly-表adv)经常地
 
 costume 套装(校服,职业服等)
 
-sophisticate 使复杂
+sophisticate (soph-智慧 ist-表n ic-表adj ate-表v ed-表adj)智慧的
+
+modify (mod-样式 ify-表v 使看起来有木有样->)修改
+
+tradition (tra/trans-转 dit-给 ion-表n 给转出去->)传承
 
 conception 观念,概念
 
-divorce 1. 使...分离
-        2. 离婚
-deviation 扭曲,偏离
+divorce (di/dis-分散 vorc-转 e 彼此向不同方向转->)1. 使...分离 2. 离婚
+deviation (de-没有 via-道路 tion-表n) 偏离,离经叛道
 ridiculous 荒谬的
 
 thereafter 之后,随后
 
-aesthetic 审美
+esthetic(es/ex/ec-出 thet-感觉 ic-表adj 能感觉出的->)adj审美的
+aesthetic(a-加强 es/ex/ec-出 thet-感觉 ic-表adj) n／adj审美
 
 efficacious (药物,措施等)有效的
 
-elaborate 阐述
-narrator 演讲者
+elaborate(e/ex-出 labor-劳动,辛苦 ate-表v 幸苦做出来的->) 1.精心制作 2.详细阐述
+narrator(narr-叙述 ator-表n表人) 演讲者
 speaker 演讲者
 
-pantomime 手势
+pantomime(pantom-全部 im-模仿 e 全程模仿) 1.哑剧 2.手势
 
-impersonation 扮演
+impersonation(im-模仿 persion-人类 ation-表n) 扮演
+imitation (imit-相似 ation-表人) 模仿
 
 rhythmical 节奏性的
 
 gymnastic 体操的
 
-imitation 模仿
-admiration 尊重,崇拜
+admiration(ad-加强 mir-惊讶 ation-表n) 尊重,崇拜
 
 explore 探索
+
 antecedent 事件
+
 cease 停止
 inceassant 不停的
-fulfill 履行
-encounter 遇见
 
-objectify 使...客观,把...反映出来
+fulfill 履行
+
+encounter 遇到
+confront 面对
+
+objectify (ob-向前 ject-扔 ify-表v)使客观,使具体 ,把...反映出来
 object 反对
 identify 鉴别
 identical 相同的
@@ -62,13 +91,15 @@ threat 威胁
 tear 眼泪
 fear 害怕
 
-confront 面对
-
 兴趣,爱好
 penchant 兴趣,爱好
 propensity 兴趣,爱好
+propose 1. 认为/假设
+        2. 建议
+        3. 求婚
 
-autonomous 自发性的
+autonomous(auto-自己 nom-法律 ous-表adj 给自己定的法律->)自发性的
+
 detached 中立的
 attach v 依赖
        n 附件
@@ -80,15 +111,33 @@ wellbeing
 保留
 retain
 remain
+attain(at-加强 tain-抓住 去抓住->)实现
 
 artistic 艺术的
-
-propose 1. 认为
-        2. 建议
-        3. 求婚
 	   
 recall 回忆
 
 feat 宴会
 
-virtuosity 品德
+virtuosity(vir-1.男性2.技能 tu-中缀 osity-表n) 精湛的技艺
+
+motivation (mot-运动 iv/ive-表adj ation-表n) 动机
+
+antecedent (ante-向前 ced-走 ent-表n 走在前面的人->)先驱
+
+satisfy (sat-满 is-中缀 fy-表v)使高兴,满足
+
+instinct (in-在...里 stinct-刺)本能
+
+1.密集的 2.厚的 3.难以理解的,蠢的
+dense
+thick
+
+endotherm
+
+excavate (ex-出 cav-洞 ate-表v 从洞中拿出->)挖掘
+
+explore (ex-出 plor-喊 e 把野兽从丛林中喊出来->)探险,探索
+
+fossil (发音联想"发馊了"->) 化石
+

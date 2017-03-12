@@ -1,6 +1,6 @@
 *groundwater*
 渗透
-saturate (sat-满 u-中缀 ate-表v->)渗透
+saturate (sat-满 u-中缀 ate-表v 液体充满了->)渗透
 soak
 permeate (per-穿过 me-滑动 ate-表v 液体滑过去->)渗透
 permeable adj 可渗透的
