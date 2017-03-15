@@ -1,28 +1,142 @@
-timberland (timber-树木 land-line)林线
+timberline (timber-树木 line线)林线
 vegetation (veget-充满活力的,生命 ation-表n) 植被
 dramatic(drama-戏剧 tic-表adj) 戏剧性的
-transition(trans-转换 it-走 ion-表n)转变
+transition(trans-转换 it-走 ion-表n)转变,过渡,换乘
 vertical(vert-转动 ical-表adj 转动的中轴->)垂直的
 
 herb 草
+shrub 灌木
+cushion 草垫,垫子,缓冲作用
+herbivore 食草动物
+carn 肉,肉欲
+carnivore 食肉动物
+吃草
+browse
+graze
+苔藓
+mosse
+lichen
+
+deciduous(de-向下 cid-掉落 u-中缀 ous-表adj 从树上向下掉落的->)落叶的
+broadleaf 宽叶
+birch 山树
+branch 树枝,分支
+evergreen 常青的
+
+tundra 冻土
+frost 冻结,霜
 
 semiarid(semi-半 arid干旱)半干旱的
+
+steppe(step stepped stepped 走) 干草原
 
 moisture(moist潮湿 ure-表n 潮湿的东西->)水分
 
 tropics(trop-转动 ics-表n 转动的区域是回归线地带->)热带
 subtropic亚热带
+equator(equ-相等 ator-表n表物 相等的事物->)赤道
+equatorial(equator赤道 ial-表adj)赤道的
 
-vegion(veg-统治 ion-表n)地区
+region(reg-统治 ion-表n)地区
+polar region 极地
 
-deciduous(de-向下 cid-掉落 u-中缀 ous-表adj ->)落叶的
+alpine 高山的
+Himalayas 喜马拉雅
+snowdrift 雪堆
+avalanche 雪崩
+ridge 山峰,山脉,边缘
+边缘
+margin
+brim/rim 瓶口边缘
+edge
+
+引人注目堆,显著的
+striking
+remarkable
+noticable
+
+窒息
+smother
+suffocate
 
 extreme(extr/extra-超越 eme-表adj)极端的
 
 twisted(twi/two-二 st/ist-表v ed-表adj)扭曲的
 
-deformed(de-错误 form形态 ed-表adj)畸形
+deformed(de-错误 form形态 ed-表adj)畸形的
 
 latitude(lat-宽 i-中缀 tude-表n表某种状态 宽的可以环绕地球->)纬度
+longitude 经度
+altitude 海拔
+atitude 态度
 
+易遭受...的
+prone to
+vulnerable to
+susceptible
+subject...to
+
+易碎的
+fragile
+delicate
+
+favorable 有利的
+favourite 喜欢的
+
+retain/remain 保留
 attain(at-加强 tain-抓住 去抓住->)实现
+
+duration(dur-持续 ation-表n表v的结果)长期,持续
+
+universally(uni-唯一 vers-转 al-表adj ly-表adv 围着唯一的太阳转，太阳是->)普遍地,大众地
+diversity(di/dis-分开 vers-转 ity-表n 大家各自围着各自的转->)多样性
+prevalent(pre-向前 val-价值 ent-表adj 向着有价值的地方去，是普遍流行的->)流行的,普遍的
+
+cessation(cess-走 ation-表n 走了不干了->)停止,终止
+
+propse 1.假设
+       2.建议
+       3.求婚
+
+爬  
+creep
+scrawl
+
+seedling(seed-种子 ling-表n表小)幼苗
+芽
+shoot
+bud
+
+成熟
+mature
+ripe
+
+establish(e/ex-向外 st-站立 abl/able->能 ish-表v 使能站到外面来->)建立
+
+ultraviolet(ultra-超级 violet紫罗兰,紫色 超出紫色到光->)紫外线
+
+contribute(con-加强 tribut-给 e 给出去->)做贡献
+
+adjacent(ad-加强 jac/junt-连接joint ent-表adj 加强连接->)邻接的
+adjoin(ad-去 join连接 去邻接->)贴近
+
+occasional(oc-加强 cas-掉 ion-表n al-表adj 突然掉下来->)偶尔
+
+prostrate(pro-向前 strate-伸展)俯卧
+prostrate 平躺的,衰弱的
+
+microhabitat(micro-小 habitat-居住)小型生态系统,小的栖息地
+
+crucial(cruc-十字 ial-表adj 处在十字路口的关键时期->)重要的
+
+insulation(insul-小岛 ation-表n 放到孤岛上进行隔离->)隔离
+
+velocity 速度
+elevation 高度
+
+???rigors 活力,力量
+rigor 严谨
+
+fairly 完全地
+
+sufficient 足够的

@@ -1,0 +1,57 @@
+cetaceans 鲸目动物
+whales 鲸鱼
+porpoise 海豚
+dolphin 海豚
+fluke 鲽鱼
+jawbone 下颚骨
+toe 脚趾
+walruse 海象
+gills 鳃
+fin 鱼鳍
+blowhole 气孔,呼吸孔
+marine 海洋的
+
+locomotion 移动
+locomotie 引擎
+conbustion 内燃机
+
+flesh 肉体,果肉,皮肤
+flesh-eating 吃肉的
+carn 肉,肉欲
+carnivore 食肉动物
+
+precious 珍贵的
+
+detect 发觉,发现
+
+shallow 潜的
+
+繁殖
+bred 繁殖
+breed
+reproduce
+propagate
+
+skull 头颅
+skeleton 骨架
+
+disguise 隐藏
+
+affinite 亲密
+
+dwelling 居住
+
+extinct 灭绝
+
+intermediate 中间的
+
+ancestor 祖先
+antecedent (ante-向前 ced-走 ent-表n 走在前面的人->)先驱
+
+hind 后面的
+
+mammal 乳动物
+
+vestigial 遗留的,痕迹的
+
+propulsion 动力,推动
