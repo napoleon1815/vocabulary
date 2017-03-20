@@ -1,4 +1,5 @@
 cetaceans 鲸目动物
+obvious(ob-加强 vi-路 ous-表adj 路不就在那儿嘛->)显然的
 whales 鲸鱼
 porpoise 海豚
 dolphin 海豚
@@ -9,7 +10,7 @@ walruse 海象
 gills 鳃
 fin 鱼鳍
 blowhole 气孔,呼吸孔
-marine 海洋的
+marine(mar-大海 ine-表adj) 海洋的
 
 locomotion 移动
 locomotie 引擎
@@ -20,9 +21,15 @@ flesh-eating 吃肉的
 carn 肉,肉欲
 carnivore 食肉动物
 
-precious 珍贵的
+precious(preci-价值 ous-表adj) 珍贵的
+
+adaptation(ad-加强 apt-适合 ation-表n) 适应
 
 detect 发觉,发现
+
+exposed(ex-向外 pos-放 ed-表adj 放在外面->)暴露
+
+retain(re-向后 tain-抓住 往回拉,往回拽,死也不给->) 保留
 
 shallow 潜的
 
@@ -35,23 +42,29 @@ propagate
 skull 头颅
 skeleton 骨架
 
-disguise 隐藏
+disguise(dis-错误 guis-行为 e 用假动作来->) 隐藏
+
+functional(funct-做 ion-表n al-表adj 做出来的->)有效的
 
 affinite 亲密
 
 dwelling 居住
 
-extinct 灭绝
+extinct(ex-向外 stinct刺 把刺拔掉->) 灭绝
 
-intermediate 中间的
+intermediate(inter-中间 medi-中间 ate-表adj) 中间的
 
-ancestor 祖先
+transitional(trans-穿过 it-走 ion-表n al-表adj) 转化的
+
+reconstruct(re-再 con-加强 struct-建设) 重建
+
+ancestor(ante-在...之前 ces-走 tor-表n表物) 祖先
 antecedent (ante-向前 ced-走 ent-表n 走在前面的人->)先驱
 
 hind 后面的
 
-mammal 乳动物
+mammal(mamm-妈妈 al-表n) 哺乳动物
 
 vestigial 遗留的,痕迹的
 
-propulsion 动力,推动
+propulsion(pro-向前 plus-推 ion-表n) 动力,推动
