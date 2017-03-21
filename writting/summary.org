@@ -14,6 +14,9 @@ what happened in reality.
 This directly contradicts what the passage indicates.
 This was another place where experience contradicted theory.
 Their attitude was just the opposite of what the reading predicts.
+The lecture revises the idea presented in the text, that ...
+The speaker says that the suggesting of the reading pessages was very different from and even contray to the
+reality.
 
 表同意观点
 *say*
@@ -27,8 +30,12 @@ Thirdly, the passage suggests that
 *argue*
 The passage argues that
 ..., as I argued a moment ago.
+*reveal*
+The evidents of ... reveals that
 *point out*
 However,the lecture points out (转折连词＋肯定表反义)
+*point to*
+All this information points to Rembrandt as the painter of the controversial painting.
 opinion
 *hold*
 The lecturer holds the view that
@@ -40,6 +47,7 @@ The speaker, nontheless, matians that
 The lecturer talks about...
 *indicate*
 This also indicates that...
+allege
 figure
 deem
 believe
@@ -75,6 +83,7 @@ So it won't surprise you to learn that...
 *In addition*
 *In other words*
 *Another finding was that*
+*Furthermore*
 *On the other hand, there were other instances where* 
 另一方面，还有这样的例子(没有on the one hand也可以用on the other hand)
 *And then there was another occasion* 还会存在这样一种情况
@@ -97,3 +106,6 @@ them for hiring new staff is too expensive.
    What one company found when it decided that it would turn over some of its new projects to teams of people.
 4. n + done + 定义从句
 The lecturer talks about research conducted by a firm that used the group-system to handle their work.
+
+tips:
+阅读中的事实细节部分，一定要好好看
