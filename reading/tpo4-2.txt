@@ -1,0 +1,106 @@
+bead n 有孔的珠子
+carving n 雕刻品
+carve v 切
+crude adj 粗糙的
+degree n 1.度数 2.程度 3.学位
+
+decorate v 装饰
+(decor-装饰 ate-v后缀)
+
+naturalist n 自然学家
+naturalistic adj 自然的
+(nat-出生，天生 ur(e)-n后缀 al-adj后缀 istic-adj后缀)
+natural adj 自然的
+
+slab n 厚板
+
+cave n 洞
+(cav-中空)
+
+excavate v 挖掘
+(ex-向外 cav-中空 ate-v后缀 -> 从洞中挖出来)
+
+paleolithic adj 旧石器时代的
+(paleo-旧 lith-石头 ic-adj后缀)
+
+identify v 指出，确认
+(ident-相同 ify-v后缀)
+
+shelter n 1.居所 2.遮蔽
+cliff n 悬崖
+
+principal adj 主要的
+(prin-主要 cip-抓住 al-adj后缀 -> 第一个要抓住的)
+
+inhabit v 居住
+gallery n 画廊
+
+interpret v 解释
+(inter-两者之间 pret-价值(price) -> 说明两者间的价值)
+
+religious adj 宗教的
+(re-回 lig-捆绑 ious-adj后缀 -> 把人捆回来，哪儿也去不了的)
+
+depend v 依赖
+(de-向下 pend-悬挂 -> 向下挂着)
+
+reflect v 反应
+(re-回 flect-弯曲 -> 向回弯折)
+
+conscious adj 意识的，认识的
+(con-加强 sci-知道(science 知道的东西 -> 科学) ous-adj后缀)
+
+backdrop n 背景幕布
+trap v 使陷入困境
+trapping n 陷阱，圈套
+contemporary adj 当代的 n 同代人
+spear n 矛 v 用矛刺穿
+inspire v 激励，鼓舞
+herd n 1.兽群 2.人群
+explicit adj 明确的
+v描绘 portray depict
+bovine adj 牛的
+heavy adj 沉重的
+heavier adj 沉重的比较级
+meaty adj 多肉的
+meatier adj 多肉的比较级
+tusk n 长牙
+unpredictability n 不可预测性
+mammoth n 猛犸象
+reindeer n 驯鹿
+investigate v 调查
+investigator n 调查者
+cease v 停止
+portrayal n 画像
+
+confine v 限制，限定
+(con-共同 fin-边界 -> 全都是边界)
+
+shaft n 井
+
+anthropologist n 人类学家
+(anthrop-人类 o-中缀 logist-n后缀，表专家)
+
+interpretation n 解释
+engrave v 在...上雕刻
+engraving n 版画
+
+notation n 标记，记号
+(not-符号 ation-n后缀)
+
+bone n 骨头
+artwork n 1.艺术品 2.图片
+artistic adj 艺术的
+(art-艺术 ist-n后缀 ic-adj后缀)
+
+location n 地点
+(loc-地方 ation-n后缀)
+
+exaggerate v 夸张，夸大
+(ex-向外 ag-加强 ger-搬运 ate-v后缀 -> 往外搬的东西，是口口相传，越来越大)
+
+fertility n 富饶，肥沃
+innovation n 创新
+
+obvious adj 明显的
+(ob-加强 vi-路(way) ous-adj后缀 -> 在路面上，非常起眼的)

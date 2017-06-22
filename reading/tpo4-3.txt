@@ -1,0 +1,118 @@
+petroleum n 石油
+(petr-石头 ole-油oil um-n后缀)
+petrochemical n 石油化学产品
+(petro-石油的简称 chem-化学 ical-n后缀)
+
+crude adj 粗糙的，粗鲁的
+
+organic adj 1.有机的 2.器官的 3.统一的
+(organ-组织 ic-adj后缀)
+organism n 1.有机体 2.有机体系
+
+sediment n 沉淀
+(sed-坐 i-中缀 ment-n后缀 ation-n后缀，表动作的结果 -> 往下坐的结果)
+
+microscopic n 显微镜 adj 微小的
+(micro-小 scop-镜子，观察 ic-adj后缀 -> 只能通过显微镜观察的)
+
+mud n 泥
+
+decompose v 1.分解 2.腐烂
+(de-相反 com-共同 pos-放置 -> compose组合的反义词)
+decay n/v 1.腐烂 2.衰败
+(de-向下 cay-向下)
+
+preserve v 保存，保管
+(pre-加强 serv-保存)
+
+prevent v 阻止，防止
+(pre-前 vent-来 -> 提前来做)
+
+oxygen n 氧气
+subject n 1.对象 2.主题 3.科目 v 使臣服
+
+droplet n 小水珠
+(drop-滴 let-n后缀，表小 -> 小液滴)
+
+squeeze v 挤压
+dense adj 稠密的
+saturate v 渗透
+underlie underlay underlain v 1.作为...的原因/基础 2.在...之下
+permanent adj 永久的
+derrick n 1.起重机 2.井架
+
+portable adj 1.便携式的 2.可移植的
+(port-搬运 able-adj后缀，表能)
+
+various adj 各种各样的
+(var-改变 ious-adj后缀 -> 能经常改变的)
+
+dismantle v 1.拆开 2.废除
+trap v 使...圈套，计谋
+spout v 1.喷出 2.喋喋不休地说
+gusher n 喷油井
+gush v 1.喷出 2.夸张地说
+adjacent adj 邻近的
+refine v 1.使精炼 2.精炼
+refinery n 精炼厂
+gasoline n 汽油
+kerosene n 煤油
+dye n 染料
+fertilizer n 肥料
+
+plastic n 塑料制品
+(plas-塑造，形状 tic-adj后缀 -> 可塑造成各种各样形状的东西)
+
+manufacture v 制造
+hostile adj 敌对的
+offshore adj 海上的，近海的
+
+region n 区域
+(reg-统治 ion-n后缀 -> 有统治的地方，行政区域)
+
+convert v 转化
+(con-加强 vert-转)
+
+consist v 组成
+(con-共同 sist-站立 -> 都站在一起，组成一个团队)
+continental adj 大陆的
+
+consumer n 消费者
+(con-加强 sum-拿(take) er-n后缀，表人)
+
+originate v 源自于
+(ori-升起 gin ate-v后缀)
+
+shelve v 搁置
+sloping adj 有坡度的
+
+marine adj 海洋的
+(mar-海洋 ine-adj后缀)
+submarine n 潜艇 adj 海底的
+(sub-在..后面/下面 mar-海洋 ine-adj后缀)
+
+continent n 大陆
+(con-全部 tin-把持住 ent-n后缀 -> 全部把持在一起，成为一个整体的东西)
+
+justify v 证明，适合，认为...是对的
+(just-法律 ify-v后缀，表使)
+
+accidental adj 意外的
+(ac-加强 cid-下落 ent-n后缀 al-adj后缀 -> 突然掉下来的)
+
+extraction n 提炼
+landslide n 山崩
+spill v/n 洒
+spillage n 溢出
+cargo n 装载的货物
+tanker n 油罐车
+collision n 碰撞
+slick n 浮油
+ashore adv 上岸
+foul adj 1.难闻的 2.难听的 3.令人不快的
+subside v 1.平息，尖肉 2.下沉
+strict adj 1.精确的 2.严格的
+adverse adj 不利的，反面的
+
+forbidden adj 禁止的
+(for-远离 bid-努力尝试 en-adj后缀 -> 不许尝试做任何努力的)

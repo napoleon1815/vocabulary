@@ -1,0 +1,204 @@
+notorious adj 1.众所周知的 2.声名狼藉的
+(notor-知道 ious-adj后缀)
+
+calcium n 钙
+(calc-石灰 ium-n后缀，表元素)
+
+cadmium n 镉
+
+interupt v 中断，从中间断开，切断
+(inter-在...中间 rupt-断裂)
+
+agriculture n 农业
+(agri-土地 cult-耕种 ure-n后缀 -> 在土地上耕种)
+
+recycling n 循环
+(re-返回 cycl-圆圈 ing -> 转个圈又回来了)
+
+detect v 检测
+(de-去掉 tect-遮挡 -> 把遮挡的东西去掉了，就检测出来了)
+
+symptom n 症状
+(sym-共同 pt-下滑，下落 om-n后缀 -> 使整个身体处于下滑状态)
+
+chlorosis n 褪绿症
+(chlor-绿色 osis-n后缀，表疾病 -> 因没有绿色导致的疾病)
+
+chloride n 氯化物，漂白粉
+
+chlorophyll n 叶绿素
+(chlor-绿色 o-中缀 phyll-叶子)
+
+necroosis n 坏死病
+(necro-死 o-中缀 sis-n后缀，表疾病)
+
+anthocyanin n 花青素
+(anth-花 cyan-深蓝色 in-n后缀，表...素)
+
+herbaceous adj 草本植物的
+(herb-草 aceous-adj后缀)
+
+pigmentation n 染色，色素
+(pig/pict-画(picture,ct<->g) ment-n后缀 ation-n后缀)
+
+nitrogen n 氮
+(nitro-硝 gen-生 -> 由硝酸产生的东西)
+nitrate n 硝酸盐
+
+phosphorus n 磷
+(phos-光 phor-携带 us-n -> 能带来光的东西)
+
+occur v 发生，出现
+(oc-加强(o<->a) cur-奔跑 -> 跑出来了)
+
+mobilize v 流动，运动
+(mob-运动 il(e)-adj后缀 ize-v后缀)
+
+isolate v 孤立
+(iso/insul-岛(iso/insul<->in + sale，在盐里 -> 泡在海里的岛) ate-v后缀，使 -> 使成为岛)
+
+hydroponical adj 无土栽培的，溶液培养的
+(htdro-水 pon-放置 ical-adj后缀)
+hydroponics adj 无土栽培的，溶液培养的
+
+selective adj 选择的
+(se-分离 lect-选择 ive-adj后缀)
+
+observe v 观察
+(ob-加强(ob<->ab) serv-保存 -> 一直保持某种动作，静静观察)
+
+application n 应用
+(ap-加强 plic-重叠 ation-n后缀，表动作的结果 -> 把一个东西重叠岛另一个地方，把技术应用到其他领域)
+
+facilitate v 便于...
+(fac-做 il(e)-adj后缀 ate-v后缀)
+
+aeroponic n 雾气栽培
+(aero-空气 pon-放置 ic-n后缀)
+
+suspend v 悬挂
+(sus/sub-在...下 pend-悬挂)
+
+toxic adj 有毒的
+(tox-毒 ic-adj后缀)
+
+saline adj 盐的
+(sla-盐 ine-adj后缀)
+
+concentration n 集中
+(con-加强 centr-中心 ation-n后缀，表动作的结果)
+
+mercury n 1.水银 2.水星
+(merc-流动，商业 ury-n后缀)
+
+essential adj 必须的，精华的
+(ess-存在 ent-n后缀 ial-adj后缀)
+
+hyperaccumulator n 富集植物
+(hyper-超级 ac-加强 cumul-累积 ator-n后缀)
+
+hundredfold n/adj/adv 一百倍
+(hundred-一百 fold-倍数)
+
+normal adj 平常的
+(norm-法律，规章，制度 al-adj后缀)
+
+microbial adj 微生物的
+(micro-小 bi-生命 al-adj后缀)
+
+pathogen n 病原体
+(path-疾病 o-中缀 gen-生命)
+
+investigator n 调查员
+(in-加强 vestig-痕迹 ator-n后缀，表人 -> 追查痕迹的人)
+
+contaminate v 污染
+(con-加强 tamin-触摸 ate-v后缀 -> 不停地摸，摸脏了)
+
+phytoremediation n 植物修复法
+(phyto-植物 re-返回，再 medi-医疗 ation-n后缀，表动作的结果)
+restore v 修复
+(re-再 stor-贮藏 -> 再次收回来做修复)
+remediation n 修复
+
+relocate v 安置，运送
+(re-再 loc-地方 ate-v后缀 -> 再一次到了新的地方)
+
+compound n 混合物
+(com-共同 pound-放置 -> 都放到一块)
+
+cultivation n 种植
+(cult-耕种 iv-中缀 ation-n后缀，表动作的结果)
+
+mineral n 矿物
+
+elemental state 元素状态
+
+ion n 离子
+
+deficient adj 不足的
+
+nutrient n 营养物
+
+serpentine adj 弯弯曲曲的(winding)
+
+depletion n 耗尽
+
+harvest n 收获
+
+deficiency n 缺乏
+
+specific adj 1.明确的 2.指定的
+
+tissue n 1.细胞组织 2.纸巾
+
+stem n 茎
+
+stunt n 1.惊险动作 2.发育不良的动植物
+
+exhibit v/n 陈列，展出
+
+slender adj 苗条的
+
+discoloration n 变色
+
+petiole n 叶柄
+
+vein n 静脉
+
+mist n 薄雾
+
+overabundance
+
+sodium n 钠
+
+aluminum n 铝
+
+copper n 铜
+
+zinc n 锌
+
+amass v 积累
+
+nickel n 镍
+
+cobalt n 钴
+
+manganese n 锰
+
+mustard n 芥末
+
+spurge
+
+legume n 豆科植物
+
+irrgation n 灌溉
+
+excavation n 挖掘
+
+reburial n 填埋
+
+pennycress n 菥蓂
+
+selenium n 硒
+
