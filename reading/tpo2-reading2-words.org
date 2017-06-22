@@ -12,6 +12,9 @@ fin 鱼鳍
 blowhole 气孔,呼吸孔
 marine(mar-大海 ine-表adj) 海洋的
 
+portion n 部分
+(port-部分(part) ion-n后缀)
+
 locomotion 移动
 locomotie 引擎
 conbustion 内燃机
@@ -33,6 +36,9 @@ retain(re-向后 tain-抓住 往回拉,往回拽,死也不给->) 保留
 
 shallow 潜的
 
+sediment n 沉淀
+(sed-坐 i-中缀 ment-n后缀 -> 一直往下坐)
+
 繁殖
 bred 繁殖
 breed
@@ -44,7 +50,7 @@ skeleton 骨架
 
 disguise(dis-错误 guis-行为 e 用假动作来->) 隐藏
 
-functional(funct-做 ion-表n al-表adj 做出来的->)有效的
+functional(funct-做，实施，落实 ion-n后缀 al-adj后缀 做出来的->)有效的
 
 affinite 亲密
 
@@ -57,6 +63,8 @@ intermediate(inter-中间 medi-中间 ate-表adj) 中间的
 transitional(trans-穿过 it-走 ion-表n al-表adj) 转化的
 
 reconstruct(re-再 con-加强 struct-建设) 重建
+structure n 结构
+(struct-建造 ure-n后缀)
 
 ancestor(ante-在...之前 ces-走 tor-表n表物) 祖先
 antecedent (ante-向前 ced-走 ent-表n 走在前面的人->)先驱
@@ -67,4 +75,4 @@ mammal(mamm-妈妈 al-表n) 哺乳动物
 
 vestigial 遗留的,痕迹的
 
-propulsion(pro-向前 plus-推 ion-表n) 动力,推动
+propulsion(pro-向前 plus-推 ion-n后缀) 动力，推动，推动力

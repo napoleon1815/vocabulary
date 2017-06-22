@@ -1,0 +1,96 @@
+pacific adj 太平洋的
+(paci-平静 (i)fic-adj后缀)
+
+primary adj 主要的
+(prim-首要，第一 ary-adj后缀)
+primarily adv 主要地
+(ary->arily)
+
+triangle n 三角形
+(tri-三 angl-角)
+
+estimate v 估计
+(estim-价值 ate-v后缀)
+
+speculation n 推测
+(spec-看 ul-中缀 ation-n后缀 -> 一直在看，在观察推测)
+
+linguistic adj 语言学的
+(lingu-语言 ist-n后缀，表专家 ic-adj后缀)
+
+archaeological adj 考古学的
+(archae-古代 o-中缀 logical-adj后缀，表学科)
+
+mutually adv 彼此地，相互地
+(mut-交换 u-中缀 al-adj后缀 ly-adv后缀)
+
+exclusive adj 独特的
+(ex-向外 clus-关闭(close) ive-adj后缀 -> 关外面去了，与大众格格不入的)
+
+implicitly adv 含蓄地
+(im-加强 plic-折叠 it-adj后缀 ly-adv后缀 -> 把东西折叠，遮盖起来地)
+
+deprecate v 贬低
+(de-向下 prec-祈祷 ate-v后缀 -> 往相反地方向祈祷)
+
+navigational adj 航海的
+(nav-船 ig/ag-运动 ation-n后缀 al-adj后缀 -> 船的运动)
+
+creativity n 创造力
+(cre-生长 ativ(e)-adj后缀 ity-n后缀)
+
+colonize v 殖民，统治
+(colon-游走 ize-v后缀)
+
+civilization n 文明
+(civil-居民 iz(e)-v后缀 ation-n后缀 -> 由居住的人民产生的文化)
+
+adventurer n 冒险家
+(ad-加强 vent-来 ur(e)-n后缀 er-n后缀，表人 -> 敢来的人)
+
+native adj 本土的，当地的
+(nat-出生 ive-adj后缀)
+
+prevailing adj 强大的
+(pre-加强 vail-强大 ing-adj后缀)
+
+appropriate adj 适当的，适合的
+(ap-加强 propr-自己 i-中缀 ate-adj后缀 -> 自己的，才是最合适的)
+
+domesticated adj 驯化的
+(dom-家 estic-adj后缀 at(e)-v后缀 ed-adj后缀)
+
+implement n 工具
+(im-加强 ple-充满 ment-n后缀 -> 随处可见，到处都在用的东西)
+
+inventory n 清单
+(in-加强 vent-来 ory-n后缀 -> 要来的东西，已列在清单上了)
+
+voyage n 航行
+(voy-走 age-n后缀)
+
+deliberate adj 深思熟虑的
+(de-加强 liber-自由，平衡 -> 平衡来平衡去，反复思量的)
+
+simulation n 模拟
+(simul-相似 ation-n后缀)
+
+excitement n 兴奋
+(ex-向外 cite-喊叫 ment-n后缀)
+
+derive v 源自，来自
+(de-向下 rive河流 -> 从河中流下来)
+
+explore v 探索
+(ex-向外 plor-喊叫)
+
+dispute v 争论
+(dis-分开 put-思考 -> 思考有分歧)
+undisputed adj 毋庸置疑的
+(un-否定 dispute争论 (e)d-adj后缀 -> 不用争论的)
+
+reconstruction n 重建
+(re-再 con-共同 struct-建造 ion-n后缀)
+
+foundation n 基础
+(found-底部 ation-n后缀)
