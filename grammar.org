@@ -1,0 +1,643 @@
+* 计划
+非谓语v
+虚拟语气
+倒装句
+with复合结构
+it特殊用法
+比较结构
+独立主格
+小词as
+强调句
+100动词(三单 过去时 现在分 过去分)
+动词时态
+tpo1-12单词
+1-30奇文词
+20000词
+magazine单词
+magazine长难句
+
+做状语的不止状语从句(还有prep短语等)
+* 动词
+动词有三种时态
+原形 (*助动词+原形一定是做谓语*will be, must take)
+三单
+现在分词
+过去式 (*动词过去式一定做谓语*)
+过去分词
+
+被动语态 be + 过去分词
+现在进行时 be + 现在分词
+
+助动词 情态动词？
+
+及物，不及物 赖世雄辨别发
+
+
+实义动词
+系动词
+
+* 完整句
+  有谓语动词就是一个句子，一共有5种结构
+* 时态
+* 特殊语法现象
+** 倒装
+** 强调
+** 虚拟语气
+** 小词的特殊用法
+*** so that
+   *so (that)为了* 没有,是目的
+   We will come at eight so (that) the meeting can began early.
+   
+   *so..(that)如此..以至于* 有,是结果
+   We all arrived at eight, so (that) the meeting began promptly.
+
+* 8种句子成分
+| 成分     | 主 | 谓 | 宾 | 定  | 状  | 补 | 表语 | 同位语 |
+|----------+----+----+----+-----+-----+----+------+--------|
+| 从句     | √  | ×  | √  | √   | √   | ×  | √    | √      |
+| 等效词性 | n  | ×  | n  | adj | adv | ×  | n    | n      |
+四类从句
+n(主/宾/表/同位)
+adj(定语)
+adv(状语)
+特殊句式(虚拟/倒装/强调/比较结构/独立主格/非谓语动词/小词的特殊用法)
+** 句子成分说明
++ 主语\\
+  n/pron，动作的发出者
++ 谓语\\
+  v，表明一个句子的动作，有谓语就有句子，一个句子只能有一个谓语，多出来的谓语是从句的。\\
++ 宾语\\
+  n/pron，动作指向的对象
++ 定语\\
+  adj修饰n 知识点：后置定语 定语从句 n+that的可能情况 
++ 状语\\
+  adv修饰谓语，表明一个谓语动作发生状态的语言
++ 补语(宾语补足语)\\
++ 表语\\
+  修饰主语，描述主语的状态，句子无实义动词，没有动作
++ 同位语\\
+  n，相同位置的语言，本来两个完全等同的东西(地位，功能，内容完全等同)，应当写在同一个位置
+* 同位语(aka 插入语)
+** 格式
++ A, B,
+  Alex, our English teacher, is doing his best to be a better teacher.
+
++ A - B -
+  Beijing - the capital of China - is suffering severe air pollution.
+
++ A or B
+
++ n + 同位语从句(that/when/how/whether + 完整句子)，后面整个句子就是前面n的内容
+  *跟定语从句的区别是，连接词在从句中不做任何成分(主语/宾语/状语)*
+  The news that Alex was addmited by stanford makes my parents happy.
+  The suggestion *that he should start at once* was advanced by director.
+  The suggestion *that he put forwad at the meeting* has been turned down.
+  turn down 拒绝
+
+** 同位语长难句
+There are numerous unsubstantiated reports *that natural vitamins are*
+*super to synthetic ones[]*, *that fertilized eggs are nutritionally*
+*superior to unfertilized eggs[]*, *that untreated grains are better than*
+*fumigated grains and the like[]*.
+有很多未经证实的报道，这些报道是天然的维他命比合成的要好，受精的蛋比未受精的要好，
+未经处理的谷物比烟熏消毒的更好等等类似的报道。
+unsubstantiated adj 未经证实的
+synthetic adj 合成的，人造的
+fertilized adj 受精的
+fumigate v 用烟熏消毒
+
+n + that 但that在从句中不做成分，是同位语
+
+Being interested in the relationship of language and thought, Whorf
+developed the idea that the structure of language determines the structure
+habitual thought in a society.
+因对语言和思维的关系感兴趣，沃夫形成了?样一个观点，即在一个社会中语言结构决定习惯思维模式。
+
+All the same, no thinking man can refuse to accept their first proposition:
+that a great change in our emotional life calls for a change of expression.
+仍然没有一个有思想的人能否决他们自己最初的主张：即人们感情世界?巨变要求语言表达方式随之变化。
+
+But these factors do not account for the interesting question of how there
+came to be such a concentration of pregnant ichthyosaurs in a particular
+place very close to their time of giving birth.
+ichthyosaur n 鱼龙
+但是这些事实不能解释这个令人感兴趣的问题，就是为什么在一个特殊的靠近他们出生的地方如此的
+集中了这么多怀孕的鱼龙。
+
+In the seventeenth century the organ, the clavichord, and the harpsichord
+became the chief instruments of the keyboard group, a supremacy they
+maintained until the piano supplanted them at the end of the eighteenth
+century.
+17世纪时风琴，敲弦琴和拨弦琴成为键盘乐器类的主要成员，这种至高无上的地位一直由他们保持，
+直到18世纪末被钢琴所取代。
+organ n 风琴
+clavichord n 古钢琴
+harpsichord n 大键琴
+supremacy adj 至高无上的
+supplant v 代替
+
+* 8种后置定语，分三类
+** 非谓语动词
+*** n + doing (现在分词)
+A man fighting for his dream is cute.
+*** n + done (过去分词) 表被动
+The guy tortured by enemy didn't say a word. *被*敌人折磨的家伙，没有说一句话
+A man committed to his goal will succeed.
+*** n + to do(不定式)
+Time to say goodbye. *到了*说再见的时候了。
+
+** adj/prep短语
+*** n + adj
+The basket full of fruits belongs to the beautiful girl.
+*** 不定代词(something,somebody,someone等) + adj
+Nothing serious.
+*** n + 表语形容词(只能做表语的形容词alive等)
+A dog alive.
+*** n + of/in介词短语
+in the name of god. *以*上帝之名。
+a man of his word. 言而有信的人
+** 定语从句2种结构
+名词或代词，在句中做主语或宾语
+*** 结构1[n+定语从句]，修饰前面的名词 (从特殊疑问词断开，到下一个谓语前，是定语从句，修饰前面的名词或代词)
+Those *who make most people happy* are the happiest in the world.\\
+Those *who find faults with others* often lose their glamour.\\
+*** 结构2[句子+定语从句]，修饰句中宾语
+Love the way *you lie*.\\
+有谓语就有句子，一个句子只能有一个谓语，多出来的谓语是从句的。\\
+The dictionary is the only place *where success comes before work*.\\
+*** 连接词
+| 名词或代词 | 特殊疑问词    | 在定语从句中成分 |
+|------------+---------------+------------------|
+| 人         | who/whom/that | 主语/宾语        |
+| 物         | which/that    | 主语/宾语        |
+| 人或物     | whose         | 主语/宾语        |
+| 时间       | when          | 状语             |
+| 地点       | where         | 状语             |
+| 原因       | why           | 状语             |
+人物都可用that，人专有who/whom，物专有which/that，必须在从句中做主语或宾语
+从句中做状语的有时间when/地点where/原因why
+*** 连接词的省略
+如果that引导定语从句，并且that在从句中做宾语，那么that可以省略
+*** n+that的可能情况
+n + that that在从句中做主语或宾语，一定是定语从句
+n + that that在从句中不做成分，一定是同位语从句
+so .. n + that 结果状语从句，如此..以至于
+*** n+which一定是定语从句
+* 后置定语长难句
+
+I'm part *of a trible of women[1]* *uncovered by[2]* social researcher
+Wednesday Martin in her book "Primates of Park Avenue" and *discussed by[3]*
+Celia Walden *in the Telegraph[4]* earlier this week, *who, while not going
+out to work in an office of for a company[7]*, still receive a bonus from their
+husband at the end of the financial year as a sign of appreciation for services
+rendered.
+
+Those *brave enough[5]* *to take the course[6]* will certainly learn a lot of
+useful skills.\\
+那些选修这门课的勇敢的人当然会学到很多有用的技能.\\
+
+On the rare occasion *when a fine piece of sculpture was desired*, Americans
+turned to foreign sculptors, as in the 1770's *when the cities of New York and*
+*Charleston, South Carolina, commissioned the Englishman Joseph Wilton to make*
+*marble statues of William Pill*.\\
+在零星的某些精美的雕塑被需要的时候，美国人会转而求助外国的雕塑家，比如在1770年时的纽约市和
+南卡罗来纳州查尔斯顿市，就委托了英国人约瑟夫·威尔顿制作了威廉丸的大理石雕像。\\
+
+If ever the earth has beheld a system *of administration[]* *(which) conducted*
+*with a single and steadfast eye to the general interest and happiness[]* of
+those *(who are) committed to it[]*, /one[]/ *which, protected by truth*,
+can never know reproach, it is that *to which our lives have been devoted[]*. \\
+希望这世界上有一种治理制度，在执行的时候专门有坚定不移的一只眼睛来审视它，监护大众利益
+和为之奋斗者的幸福，建立在真理基础上的制度将永远与责难无缘，我们一生所致力的也正在这里。
+我自己，还有你，毕生都为此鼎力支持。\\
+of administration 行政的
+one 同位语，指的是a system of administration
+
+/The panel[专家小组]/ has not yet reached agreement on a crucial question,
+however, *whether to recommend legislation[]* *that would make it a crime to*
+*/private funding[私人基金]/ to be used for human cloning*.
+1. the panel 这个专家小组
+然而，这个专家小组还没有在是否应当立法这个关键问题上面达成一致，这个立法会让利用私人基金
+克隆人类变成犯罪。
+然而，这个专家小组还没有在这个关键问题上面达成一致，这个关键问题就是是否建议立法机关
+将私人基金用于人类克隆的行为看做是犯罪。
+a crucial question的同位语
+n + that有可能是定语从句，that在从句中做主语或宾语，就一定是定语从句
+情态动词+动词原形(would make)一定是做谓语，谓语前的that做主语
+
+Furthermore, humans have the ability *to modify the environment[]* *in which*
+*they live[]*, *thus[]* subjecting all other life forms to their own peculiar ideas
+and fancies.
+此外，人类有调节他们居住环境的能力，从而使所有的其他生命形式能够符合人类自己独特的想法和想象。
+n + prep + which 一定是定语从句，n为人或物，which在从句中做主语或宾语
+thus结果状语
+subject to 使...屈服
+
+In Australia *where /an aging populations人口老龄化/, /life extending
+technology延长生命的技术/ and /changing community attitudes变化的社会态度/[]*
+*have /played/ their part发挥作用/[]* -- other states are
+going to consider making a similar law to deal with euthanasia. In the US
+and Canada, *where the right to die movement is gathering strength[]*, observers
+are waiting for the dominoes to start falling.
+在人口老龄化，延长生命的技术和变化的社会态度都在发挥作用的澳大利亚，其他州都在考虑制定类似
+有关安乐死的法律。在死亡权利的运动越来越大的美国和加拿大，观察家正在等待多米诺开始倒塌。
+euthanasia (ia-n后缀，表病) 安乐死
+状语是adv修饰前面谓语，where没有动词，所以这里一定是定语从句
+have one's part 发挥作用
+
+Pearson has /pieced together串在一起，汇集/ to the work *of hundreds of
+researchers[]* *around the world[]* *to produce a unique millennium technology*
+*calender[]* *that gives the latest dates[]* *when we can expect hundreds of key*
+*breakthroughs and discoveries to take place[]*.
+Pearson汇集了世界各地数百位研究者的研究成果，目的是来创建出一个拥有独特技术的千年历，这台千年历
+能给我们列出我们有希望看到的数百项重大突破和发现的最近日期。
+to produce 目的状语
+n + that that在从句中做主语或宾语，一定是定语从句
+* 状语从句
+** 时间状语
+   | when  | whenever | as         | while      | before      | after      |
+   | since | once     | as soon as | directly   | immediately | every time |
+   | until | till     | the moment | the minute | the instant | the day    |
+   
+  Everyone is very peaceful, polite and friendly *util, waiting in line*
+  *for lunch[], the new arrival is suddenly pushed aside by a man[] in a*
+  *white coat[], who rushes to the head of the line, grabs his food and*
+  *stomps over to a table by himself[]*.
+  每个人都特别的祥和，有礼貌和友好，直到大家在等着吃午饭时，新到的人突然被穿白色外套的男人
+  推到一边去了， 这个男人冲到了队伍的最前面，拿起他的事物，然后站到桌子上面去。
+  util 时间状语
+  waiting 非谓语动词，引导伴随状语
+  定语从句修饰的n不会跳跃
+  
+  People in the united states in the nineteenth century were haunted
+  by the prospect that unprecedented change in the nation's economy
+  would bring social chaos. 
+  19世纪的美国人因为害怕国家经济中史无前例的变化会带来社会混乱这一前景而提心吊胆。
+  haunt v 经常去
+  unprecedented adj 史无前例的
+** 地点状语
+   | where | wherever | anywhere | everywhere |
+   
+   *Although he knew little about the large amount of work done in the*
+   *field[]*, he succeed *where other more well informed experimenters failed[]*.
+   尽管他知道很少量在这个领域做出的大量研究，他在其他做出很多经验却失败的领域成功了。
+   although 让步状语从句 done in the field 后置定语
+   where 地点状语
+   
+   Furthermore, humans have the ability to modify the environment where
+   (/in which) they live, thus subjecting all other life forms to their
+   own peculiar ideas and fancies.
+
+** 原因状语(因为)
+| as           | because            | since                   |
+| given that   | on the ground that | not that .. but that .. |
+| seeing(that) | considering that   | now that                |
+
+The behavioral sciences have been slow to change *partly because the*
+*explanatory items often seem to be directly observed[]* and *partly*
+*because other kinds of explanations have been hard to find[]*.
+行为科学一直发展缓慢，部分是因为解释行为的依据都是直接被观察到的，并且部分是因为其他的
+解释方式一直很难找到。
+
+Open-source spying does have its risk, of course, since it can be
+difficult to tell good information from bad.
+
+** 目的状语(为了)
+   | so   | *so (that)为了* | in order that |
+   | lest | in case | for fear that |
+   We will come at eight *so (that) the meeting can began early*.
+   没有,是目的
+   
+   If you feel awkward being humourous, you must practice *so that*
+   *it becomes more natural*.
+   
+   Former Colorrado governor Richard Lamn has been quoted as saying that
+   the old and infirm "have a duty to die and get out of the way" *so that*
+   *younger, healthier people can realize their potential*.
+   infirm n 年老虚弱的人
+   
+** 结果状语(所以)
+   | *so..(that)如此..以至于* | such..that | with the result that |
+   We all arrived at eight, *so (that) the meeting began promptly*.
+   有,是结果
+
+   The newly described languages were often *so strikingly different from*
+   *the well-studied languages of Europe and Southeast Asia that some*
+   *scholars even accused Boas and Sapir of fabricating their data*.
+   
+** 条件状语(如果，在某种条件下)
+   | if      | unless | so long as | as long as        |
+   | in case | once   | as far as  | on condition that |
+   George Annas, *chair of /the health law department健康法律系/[]* *at Boston*
+   *university[]*, /maintaines认为/ that, *as long as a doctor /prescribes开药/*
+   *a drug for a /legitimate合法的/[]* medical purpose, the doctor had done
+   nothing *illegal[]* *even if the patient uses the drug to hasten death[]*. 
+   波士顿的健康法律系主任George Annas认为，如果医生开药是出于合理的医疗目的，即使病人
+   用药后加速死亡，医生也不算做了违法的事情。
+   
+   *If you are talking to a group of managers*, you may refer to the disorganized
+   method of their secretaries; alternatively *if you are addressing secretaries*,
+   you may want to comment on their disorganized bosses.
+   如果你在跟一群经理聊天的话，你可能会聊到他们秘书的没有条理的做事方法；如果你在跟秘书聊天，
+   你可以评论他们毫无条理的老板。
+** 方式状语(像)
+   | as | just as | as if | as though | how |
+   We must live *as if tomorrow is the end of the world*.
+   
+   Do *as what I tell you*.
+
+   Do it *how you can*.
+   
+   You can make a mental /blueprint蓝图/ *of a desire* *as you would make*
+   *a blue print of a house*, and each of us is continually making these
+   blueprints in the general routine of everyday living.
+   你可以在脑海里勾画出一个愿望的蓝图，就如同你绘制房屋的蓝图一样，并且我们每一个人在
+   日常生活中一直都在勾划这样的愿望蓝图。
+   
+   /For a while有一段时间/ it looked as though the making *of semiconductors*, 
+   *which America had sat at the heart of the new computer age*, was going 
+   to be the next casualty.
+   曾经有一段时间，看起来好像曾经作为计算机时代美国核心工业的半导体制造行业，
+   将会成为下一个灾难。
+   
+** 程度状语(在某种程度下)
+   | to the degree/extent that | such that | in so far as |
+   
+   His courage is such that he does not konw the meaning of fear.
+   他的勇气以达到的了不知什么是害怕的程度。
+
+** 让步状语(尽管，即使)
+   | though         | although | no matter what/how/when/where | even if  |
+   | admitting that | whoever  | even though                   | whatever |
+   | granted that   | however  | in spite of the fact that     |          |
+   Granted that you've made some progress, you should not be conceited.
+   尽管你取得了一些进步，你也不应该骄傲自满。
+
+   Doctors have used that principle in recent years to justfy using high
+   doses of morphine to control termnally ill patients pain, *even though*
+   *increasing dosage will eventually kill the patient*.
+   在最近几年医生一直在使用这个原则为自己对病人使用高剂量的吗啡镇痛的做法提供正当理由，
+   尽管他们知道不断提高剂量最终会杀死病人。
+   
+** 比较状语
+   | than | as/so..as | /in proportion as和..成比例/ |
+
+   /Thanks to由于/ the continual miniaturization *of electronics and*
+   *micro-mechanics[]*, there are already robot systems *that can perform*
+   *some kinds of brain and bone surgery with submillimeter accuracy[]*
+   *- far greater precision than highly skilled physicians can achieve with*
+   *their hands alone[]*.
+   由于电子学和微机械学持续的微型划，已经有一些机器系统能够执行一些大脑和骨科亚毫米级别的手术，
+   这种手术比技术娴熟的医生仅凭双手达到的精确度更高。
+   
+** 伴随状语
+
+   as with doing
+** 方向状语?
+
+   
+** 状语长难句分析
+The fact *that the apple fell down toward the earth and not up into the*
+*tree[]* answered the question *he had been asking himself[] about those*
+*larger fruits of the heavens[]*, *the moon and the planets[]*.
+苹果落向地面，而不是落向树上，这个事实回答了他一直问自己的那个有关天空中更大的果实
+--月亮和行星的问题。
+同位语从句，定语从句&介词短语做后置定语，同位语
+
+*Although it /ruled裁决，统治/ that there is no /constitutional宪法的/*
+*/right权利/ to /physician-assisted suicide医生协助自杀/*, /the Court最高法院/
+/in effect实际上/ supported the medical principle *of "double effect"[]*
+*a centuries-old moral principle[]* */holding认为/[]* *that[]* an action
+*having two effects[]* -- a good one *that is intended[]* and a harmful one
+*that is foreseen[]* -- is permissible if the actor intens only the good effect.
+尽管这个裁决并没有宪法权利来支持医生协助自杀，最高法院实际是支持了被称为双重效果的医疗原则，
+这个医疗原则已经有好几个世纪历史的道德原则，这个原则认为一个可能有两个效果的行为--一个
+想要达成良好的效果，和一个已经预见的有害的效果--如果行为的实施者想要达成的是良好的效果的话，
+是被允许的。
+让步状语从句
+同位语
+宾语从句
+定语从句
+
+* 主语从句
+当一个句子的第一个词是“特殊疑问词”，即连接词用于在一个句子中连接多个谓语
+(多出来的谓语是从句的), 往下找能找到两个谓语动词，在第二个谓语动词前没有断开，
+如果第二个谓语前没有主语，则前面的部分就是*主语从句*，否则为*状语从句*
+*当特殊疑问词在句首，两种可能 主语从句，或状语从句*
+
+*When Alex draws on this experience[] later in his own work[]*, it is the
+memory *of the building[] as a /foil衬托/[] to nature that guides his vision[]*.
+** 引导词
+| that | whether | how   | where   | when     |
+| why  | what    | which | whoever | whatever |
+
+** that引导词
+引导词为that时有3个特点
+that在主语从句中不做任何成分
+不可省略
+可以用it来代替that引导的主语从句，将it置于句首，把that放到主句后面去 
+*That I was admitted by Yale* makes my parents excited.
+*It* makes my parents excited *that I was admitted by Yale*
+
+** 主语从句长难句
+*That this is a practice /contrary to和..相反[]/ the rules /of criticism[]/* will
+be readily allowed; but there is always an /appeals吸引力/ *open from criticism*
+*to nature[]*.   
+人们普遍认为这是一种有悖于批评规则的行为方式；但是从批评界转向开阔的人性总是有吸引力。
+主语从句
+n + adj/prep短语做后置定语(contrary & open adj)
+
+However, *whether such a sense of /fairness公平感/ evolved independently in
+/capuchins卷尾猴/ and humans[]*, or *whether it /stems from来自于/ the common*
+*/acestor祖先/[]* *that the species had[]* 35 million years ago, 
+/is as yet然而还是/, /an unanswered question一个悬而未决的问题/.
+两个并列的whether引导的主语从句
+that定语从句
+
+*The moment[]* I /made up my mind下定决心/ *to quit my stable career[]*
+*as a teacher[]*, it /never occurred to me从没想过/ that I might be the
+/first intellectual第一个知识分子/ in my small country *who challenged*
+*myself to enter the business circle[]*.
+the moment时间状语从句
+to do & qreq短语 做后置定语
+who引导的定语从句
+
+it三种可能
+1. 指代后面紧跟着出现的不定式
+2. 指代后面出现的that引导的主语从句
+3. ?
+   
+*What this /amount to相当于/[]*, of course, is *that the scientist has become*
+*the victim of his own writings[]*.
+这相当于是说科学家已经成了他自己所写报告的牺牲品。
+主语从句 宾语从句
+
+*Which[]* department *in the hotel* *must /take the charge负责/ to[]* make
+sure *that[] the guests are registered correctly[]* *has not been taken[]*
+as a rule *ever since[]* it started up its business.
+which 主语从句
+that 宾语从句
+must take/has not been是谓语
+ever since 状语从句
+
+*When[]* the first draft should be finished and *how[]* it should be
+/ameliorated改善/ are not just /two of a great number of difficulties重要的难题之二/
+*that[]* the /fledgling羽毛的，初出茅庐的/ newspaper reporter encounters.
+when & how 并列的主语从句
+that 定语从句
+
+*What has happened[]* is *that people cannot confess fully to their dreams[]*,
+*as easily and openly as[]* once they could, *lest[]* they be thought
+/pushing急功近利/, /acquisitive贪婪/ and /vulgar庸俗/.
+现在的情况是人们不能像以前那么轻松自由地完全坦白自己的梦想，他们害怕自己被人理解为急功近利，
+贪婪，和庸俗。
+主语从句
+表语从句
+比较状语 as..as同级比较
+lest结果状语
+
+* 宾语从句
+  谓语是及物动词，后面接的句子是宾语从句
+*When I was five years old[]*, my mother always *told me that[]* happiness
+is the key to life. *When I went to school[]*, they *asked me what[]*
+I wanted to be *when I grew up[]*. I wrote down "happy". They told me
+*I didn't understand the /assignment作业/[]* and I told them *they didn't*
+*understand life[]*. -- John Lennon
+时间状语
+ask/tell sb sth ask/tell双宾(人+物 人是间接宾语 物是直接宾语 只有人能“贱”，物不行)
+
+I'm sorry *that I dragged you into my twisted, messed up world[]*. I just
+thought *you might be the one to pull me out of it[]*.
+
+Do you remeber all those years *when[]* scientists *g/argued that认为+宾从/*
+smoking would kill us but /the doubters怀疑者/ */insisted that坚持认为+宾从/*
+we didn't know for sure.
+when 引导状语从句，做adv修饰remeber
+     引导定语从句，做adj修饰all those years
+
+It's a theory *to which many economists subscibe[]*, /but in practice但在实践中/
+it often leaves railroads *in the position of determining[]* *which companies*
+*will /flourish繁荣昌盛/[]* and *which will fail[]*.
+subscibe to 支持，认同
+prep短语做目的状语
+两个并列的宾语从句
+
+*At the same time[]*, the American Law Institute -- a group of judges, lawyers,
+and /academics理论专家/ *whose recommendations /carry substantial weight分量极重/*
+-- /issued new guidelines发布了新的指导方针/ *for /tort law民事伤害法/[]*
+*(which is/are)[]/stating陈述/ that[]* companies need not /warn customers/
+/of/ obvious dangers or /bombard them with/ /a lengthy list of/ possible ones.
+与此同时，美国法律研究所--由一群法官、律师和理论专家组成，他们的建议分量极重--发布了
+新的民事伤害法令指导方针，宣称公司不必提醒顾客注意显而易见的危险，也不必连篇累牍地一再
+他们注意一些可能会出现的危险。
+状语
+同位语 定语从句
+省略连接词的定语从句
+warn sb of sth/bombard sb with sth 提醒sb注意sth
+a length list of 长篇大论的
+
+I believe *that[]* the most important forces *behind the massive /M&A并购/ wave[]*
+are the same *that underlie the globalization process[]*: falling transportation
+and communication costs, lower trade and investment barriers and enlarged
+markets *that[]* require enlarged operations *capable of[]* meeting customer's
+demands.
+我认为巨大的并购浪潮背后最重要的推动力，同时也就是促成全球划进程的那方基石是：运输与
+通讯成本的降低，贸易与投资壁垒的减少，以及需要通过扩大再生产来满足消费者需求的大幅度
+拓展的市场。
+宾语从句
+prep短语做后置定语
+定语从句
+adj短语做后置定语
+
+Nancy Dubler, *director of Montefiore Medical Center[]*, /contends坚持认为/
+/*that[]*/ the principle will /shield保护/ doctors *who[]* "*until now[]*
+have very, very strongly *insisted that[]* they could not /give patients/
+/sufficient mediation[]/ to control their pain *if that might hasten death[]*."
+Montefiore医疗中心主任Nancy Dubler认为这一原则将会保护这样一些医生，他们“到目前
+为止还强烈坚持他们不能够给病人足量的镇痛剂来控制他们的疼痛，如果这么做会加速他们的死亡的话。”
+同位语
+宾语从句
+定语从句
+时间状语 until中没有谓语，所以不是状语从句
+双宾语 give sb sth
+条件状语
+* 表语从句
+ 谓语动词为系动词时，后面接的从句，是表语从句
+ 即在系动词后面出现了新的谓语动词，那一定就是表语从句
+
+ 表语从句中的连接词that是不可以省略的
+ 定语从句当that在从句中做宾语时可以省略
+ 
+The most crucial point *that[]* you should fully comprehead is *what[]* prevents
+so many Americans from being *as happy as[]* one might expect.
+你应该完全理解的关键点是
+prevent sb from doing sth 阻止sb做sth
+定语从句(n + that 就两种形式 定语从句/同位语从句 看做不做成分)
+表语从句
+同级比较状语从句
+
+*When[]* the United States built its industrial /infrastructure基础设施建设/,
+/it didn't have the capital *to do so[]* 没有做这些事情的资本/. And that is
+*why[]* /Americas Second Wave infrastructure美国第二波基础设施建设/
+-- including road, harbors, highways, ports and so on -- were built with
+/foreign investment外国投资/.
+当特殊疑问词在句首，两种可能 主语从句，或状语从句
+关键看第二个谓语前是否有主语，有主语就是状语从句，否则是主语从句
+to do做后置定语
+表语从句
+
+*It* would be foolish *to go* to an interview *for a job[]* *in a law firm[]*
+*wearing jeans and a sweater[]*; and *it* would be /discourteous不礼貌的/
+*to vist[]* some /distinguished特别知名的/ scholar *looking as if[]* we were
+going to /the beach沙滩(不可数)/ or /a night club夜店(可数)/.
+it做主语一共有3种情况
+1. 指代前文出现的某种东西
+2. 做形式主语，指代后面that引导的主语从句
+3. 指代后面出现的不定式
+* [to do] prep短语做状语？除了从句还有哪些可做状语的
+prep短语做后置定语
+现在分词做后置定语
+looking as if 引导词不一定都是疑问词，这里look是系动词，用as if引导表语从句
+
+* 综合长难句分析
+The new accessibility *of land[]* *around the periphery of almost every*
+*major city[]* sparked an explosion *of real estate development[]* and
+fueled *what we now know as urban sprawl[]*.
+现在可以获得环绕几乎每个大城市的土地，这个可能性激发了一场房地产开发的大热潮，并且造成
+了我们现在城区无规划的扩展。
+periphery n 外围，边缘
+spark v 激发，引起
+sprawl n 蔓延
+fuel n 油 v 激发
+what 引导宾语从句
+
+
+For example, a grandmotherly woman staffing an animal rights booth at
+a recent street fair was distributing a brochure that encouraged readers
+not to use anything that comes from or is tested in animals -- no meat,
+no fur, no medicines.
+
+* Footnotes
+
+[1] of a trible of women 介词短语做后置定语
+
+[2] uncovered by 过去分词做后置定语
+
+[3] discussed by 过去分词做后置定语
+
+[4] in the Telegraph 介词短语做后置定语
+
+[5] brave enough 形容词短语做后置定语 
+
+[6] to take the course 不定式做后置定语
+
+[7] who while not going out to work in an office of for a company 定语从句做后置定语
+
+
+ 
+
+ 
+
+
+
+
