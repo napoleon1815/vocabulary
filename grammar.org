@@ -39,6 +39,40 @@ magazine长难句
 * 完整句
   有谓语动词就是一个句子，一共有5种结构
 * 时态
+* 非谓语动词3类
+  只是不能做谓语，其他成分都可以做
+  在句中地位：
+  皇帝——谓语动词(有且只有一个)
+  宰相/王爷——非谓语动词(除了谓语全都能做)
+** to do 不定式
+** doing 现在分词
+** done 过去分词
+** 分词做表语
+The prospect *(of packing up everything and moving to a new and very strange environment)[]* may *appear[]*
+/interesting and challenging/ *to an unmarried young man[]* and /appallingly difficult/ *to a slightly older*
+*man with a wife and small kids[]*.
+prep短语做后置定语
+appear系动词+表语
+表语并列结构
+** 分词做后置定语
+   An invisible border divides /those/ *arguing for computers in the classroom on the behalf of students*
+   *-- career prospects[]* and /those/ *arguing for computers in the classroom for broader reasons of*
+   *radical educational reform[]*.
+   arguing for computers in the classroom 主张把电脑引入课堂
+   on the behalf of students -- career prospects 为了学生职业前景的利益
+   for broader reasons of radical educational reform 为了教育改革的更大原因
+   
+   It has long been known that a taxi firm *called AAAA cars[]* has a big advantage *over Zodiac cars[]*
+   *when customers thumb through their phone directories/当客户用大拇指翻自己当电话本时/[]*.
+   后置定语
+   比较状语
+   时间状语
+** 分词做状语
+   Arguing from the view that humans are different from animals in every relevant respect, extremists
+   of this kind think that animals lie outside the area of moral choice.
+ 
+   Feeling threatened, companies responded by writing everlonger warning labels, trying to anticipate
+   every possible accident.
 * 特殊语法现象
 ** 倒装
 ** 强调
