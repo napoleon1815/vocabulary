@@ -68,15 +68,66 @@ appear系动词+表语
    比较状语
    时间状语
 ** 分词做状语
-   Arguing from the view that humans are different from animals in every relevant respect, extremists
-   of this kind think that animals lie outside the area of moral choice.
+   两种形式
+   doing／done sth， 主句.
+   主句，doing/done sht.
+   特点
+   1. 分词的主语与主句的主语相一致
+   2. 不一定有标志词来帮忙判断状语的种类，只能靠前后的逻辑关系
+
+   */Feeling threatened(公司)感觉受到了威胁/[]*, companies responded by writing everlonger warning labels,
+   */trying to anticipate every possible accident(公司)试图去预计到每一种可能发生的事故/[]*.
+   分词做状语，与主句主语相一致
+   原因 & 目的 状语从句
+
+   /Left/, *until now[]*, to odd, how-level IT staff to /put right负责/, and /seen/ as a concern only of
+   data-rich /industries行业/ such as banking, telecoms and air travel, information protection is now high
+   on the boss's agenda in business of every variety.
+   以前信息保护一直是由举止怪异、职位底下的信息技术人员负责，并且被看作是只有诸如银行，电信，航空这类拥有大量数据
+   的行业才关注的问题。而现在却高居各行业老板的日程表。
+   *有时间状语标志词*
+
+   *Arguing from[]* the view *that[]* humans are different from animals in every relevant respect,
+   /extremists极端主义者/ of this kind think *that[]* animals lie outside the area of moral choice.
+   分词做状语
+   n + that that不做成分是同位语从句，否则为定语从句
+   宾语从句
  
-   Feeling threatened, companies responded by writing everlonger warning labels, trying to anticipate
-   every possible accident.
+** 不定式做主语
+*To see* is to believe. 眼见为实。
+** 不定式做表语
+To see is *to believe*.
+*Seeing* is *believeing*.
+** 不定式做宾语
+I decided *to study a foreign language*.
+** 长难句分析
+
+*Building[]* on the basic truth *about /interpersonal influence人际之间影响/*, the researchers /studied研究/
+the /dynamic动力/ of populations *by conducting[]* thousands of computer simulations *of populations[]*,
+*/manipulating操纵/[]* a number of variables *relating to people's ability[]* *to influence others and*
+*their tendency to be influenced[]*.
+基于这种人际影响的基本事实，研究者们通过对人群进行的数千次的计算机模拟，对社会影响产生的动力进行了研究。这一过程中，
+研究者们控制了诸多变量，这些变量可以归为两类：影响他人对能力和易受他人影响的程度。
+by doing 方式状语
+
+*Declaring[]* *that[]* he /was opposed to反对/ using this unusual animal husbandry technique to clone humans,
+he /ordered/ *that[]* /federal funds联邦基金/ /not be used for不允许/ such an experimenter -- *although[]*
+no one had proposed to do so -- and /asked/ /an independent panel of experts一个独立的专家小组/ *chaired[]*
+by Princeton President Harold Shapiro /to report back/ to the White House in 90 days with recommendations
+for a national policy on human cloning.
+他宣布自己反对使用这种非同寻常的畜牧繁殖技术来克隆人类，并下令不准将联邦政府基金用于进行此类实验 -- 尽管还没有人建议
+这么做 -- 他还请一个以普林斯顿大学校长 Harold Shapiro 为首的独立专家组在90天内向白宫汇报关于制定有关克隆人的国家
+政策的建议。
+分词做状语
+宾语从句
+ask sb to do sth
+
 * 特殊语法现象
 ** 倒装
 ** 强调
 ** 虚拟语气
+   虚假的模拟的语气，与真实情况相反
+   分3类 过去(如果过去..) 现在(如果现在..) 将来(如果将来..)
 ** 小词的特殊用法
 *** so that
    *so (that)为了* 没有,是目的
