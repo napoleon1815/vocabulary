@@ -17,7 +17,7 @@ magazine单词
 magazine长难句
 
 做状语的不止状语从句(还有prep短语等)
-* 动词
+* 词法
 动词有三种时态
 原形 (*助动词+原形一定是做谓语*will be, must take)
 三单
@@ -36,6 +36,12 @@ magazine长难句
 实义动词
 系动词
 
+
+词法
+n变换 复数
+adj/adv变换 比较级，最高级
+v变换 时态/情态动词/助动词
+数词 年代/年龄/时间
 * 完整句
   有谓语动词就是一个句子，一共有5种结构
 * 时态
@@ -132,15 +138,12 @@ ask sb to do sth
    动词原形(从现在开始，对现在/将来虚拟)/have done(强调现在的状态，对过去虚拟)
    若主句有由if引导的从句做状语，就是虚拟语句，把if引导的从句翻译到主句前面去
    从句中用should/were to那一定就是对将来对虚拟，若是过去时(be都用were，没有was)，则需要根据语境来确认是对现在/将来的虚拟
-   
-   虚拟语气中if可以省略，但是须要把if引导从句中的 助动词(had/did)/be动词(were)/情态动词(would/could/should/might)
-   放到if引导从句的句首，然后省略if
-   Had he finished his work, he would have gone to the concert yesterday.
-   Were I to go to the Mars some day, I could see that surface of it with my eyes open.
-   Should it snow this afternoon, the flight would be cancelled.
-   
-   On the dust jacket of this fine book, Stephen Jay Gould says:"This book stands for reason itself."
-   And so it does -- and all would be well were reason the only judge in the creationism/evolution debate.
+
+   if翻译成是否，引导对是宾语从句
+   if翻译成如果，引导对是条件状语从句
+   若条件状语从句，是真实的，为真实条件句，时间为主将从现
+   与现实有矛盾的，为虚拟语气(如果*现在*时间可以倒流的话，我会..所以对现在虚拟，)
+   If you study hard, your English will get better.
 *** 现在(如果现在..) 
     If + *一般过去时*(be动词只能用were，没有was), would/could/should/might + *动词原形*
     If I were a boy, ...
@@ -159,6 +162,36 @@ ask sb to do sth
     shippers *who[]* have the option *of switching to trucks or other forms of transportation[]*
     *would do so*, *leaving[]* /remaining customers剩余的顾客/ to /shoulder承担/ the cost of keeping up the
     line.
+*** if的省略
+   虚拟语气中if可以省略，但是须要把if引导从句中的 助动词(had/did)/be动词(were)/情态动词(would/could/should/might)
+   放到if引导从句的句首，然后省略if
+   Had he finished his work, he would have gone to the concert yesterday.
+   Were I to go to the Mars some day, I could see that surface of it with my eyes open.
+   Should it snow this afternoon, the flight would be cancelled.
+   
+   On the /dust jacket译作古老的封面/ of this fine book, Stephen Jay Gould says:"This book /stands for代表/
+   /reason理性，不要翻成理由/ itself." And /so it does确实如此/ -- and all *would be[]* well *were[]* 
+   /reason理性/ the only judge in the creationism/evolution debate.
+   在这本优秀作品的护封上，Stephen Jay Gould写道：“这本书本身就代表理性”而它确实是这样的 -- 如果理性成为神造论和进化论
+   中唯一的评判标准的话，一切就都好办了。
+*** 错综条件句
+    虚拟条件的时间，与结果的时间，分别是错开的时间，主句从句发生时间不一致，动词形式根据具体时间调整后，综合放到了一个句子里
+If it had not rained heavily last night, there would not be so much water on the ground now.
+如果昨天晚上没有下大雨，现在地上不会有这么多水。
+
+If it had been for me, you would not be free.
+如果要不是我的话，你不可能获得自由的。
+*** 含蓄条件句
+    不用if引导的虚拟语气，而是用其他引导词引导的条件句，若用虚拟语气，为含蓄条件句
+| without | but for | but that | otherwise | or |
+I *would/虚拟结果一定是没有发生的/* have telephoned you, *but I forget your phone number/条件是真实的，/*
+*/不用虚拟语气/*.
+我*要不*就给你打电话了，但是我忘记你的电话号码了。
+*But for* the two words of encouragement, he *would never have* invented telephone.
+*Without* their help we *couldn't have succeed*.
+
+
+** with复合结构
 ** 小词的特殊用法
 *** it
 it三种可能 
@@ -174,17 +207,19 @@ it三种可能
    
    *so..(that)如此..以至于* 有,是结果
    We all arrived at eight, so (that) the meeting began promptly.
- 
+   
 * 8种句子成分
 | 成分     | 主 | 谓 | 宾 | 定  | 状  | 补 | 表语 | 同位语 |
 |----------+----+----+----+-----+-----+----+------+--------|
 | 从句     | √  | ×  | √  | √   | √   | ×  | √    | √      |
 | 等效词性 | n  | ×  | n  | adj | adv | ×  | n    | n      |
 
-词法
-n变换 复数
-adj变换 比较级
-v变换 时态
+
+一定做谓语
+情态动词 + 动词原形
+be动词
+
+句法
 
 四类从句
 n(主/宾/表/同位)
