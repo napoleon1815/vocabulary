@@ -46,10 +46,33 @@ v变换 时态/情态动词/助动词
   有谓语动词就是一个句子，一共有5种结构
 * 时态
 * 非谓语动词3类
+** 功能划分
   只是不能做谓语，其他成分都可以做
   在句中地位：
   皇帝——谓语动词(有且只有一个)
   宰相/王爷——非谓语动词(除了谓语全都能做)
+  由非谓语动词引导状语从句的主语，与主句主语相一致
+  doing/to do与主句主语是主动关系
+  done与主句主语是被动关系
+*** 从主被动来看
+  doing/to do都是主动的，
+  To make money, I work hard.
+  Playing with his friends, Peter is happy.
+  done是被动的
+  Beaten by his father, Peter cried.
+  
+*** 从功能上看
+  to do表目的，表*出乎意料的*结果
+  Peter hurried to the station only to find that the train had left.
+  
+  doing表伴随，表原因，表*逻辑上正常推断导出的*结果
+  Peter works really hard, making a lot of money.
+  
+***  从时间上看
+  to do表将来
+  doing表过去，表现在
+  done表过去
+
 ** to do 不定式
 ** doing 现在分词
 ** done 过去分词
@@ -108,6 +131,13 @@ To see is *to believe*.
 I decided *to study a foreign language*.
 ** 长难句分析
 
+   *Born and raised in a fishing village*, he was chosen and trained as
+   professional swimmer.
+   
+   *Looked* at in this way, the situation does not seem so /desperate绝望/.
+
+   Time *permitting*, the celebration will be held as scheduled.
+
 *Building[]* on the basic truth *about /interpersonal influence人际之间影响/*, the researchers /studied研究/
 the /dynamic动力/ of populations *by conducting[]* thousands of computer simulations *of populations[]*,
 */manipulating操纵/[]* a number of variables *relating to people's ability[]* *to influence others and*
@@ -129,11 +159,15 @@ for a national policy on human cloning.
 ask sb to do sth
 
 * 特殊语法现象
-** 倒装
 ** 强调
 ** 虚拟语气
    虚假的模拟的语气，与真实情况相反
    判断方法：
+1. 通过从句
+   从句时态为“过去式/过去完成时had done/should(would/could/might) do/were to”
+   特别注意的是，从句不一定是由if引导的，也可是其他引导词，或提到从句首的
+   助动词(had/did)/be动词(were)/情态动词(would/could/should/might)引导
+2. 通过主句
    主句是"本would(会)/could(能够)/should(应该)/might(可能)" + 
    动词原形(从现在开始，对现在/将来虚拟)/have done(强调现在的状态，对过去虚拟)
    若主句有由if引导的从句做状语，就是虚拟语句，把if引导的从句翻译到主句前面去
@@ -190,13 +224,157 @@ I *would/虚拟结果一定是没有发生的/* have telephoned you, *but I forg
 *But for* the two words of encouragement, he *would never have* invented telephone.
 *Without* their help we *couldn't have succeed*.
 
+A survey *of news stories[]* *in 1996[]* reveals *that[]* the /anti-science/
+/tag反科学标签/ has been /attached贴/ to many other groups as well, *from*
+/authorities权威机构/ *who[]* /advocated提倡/ the elimination of /the last/
+/remaining stocks of最后剩余...的库存量/ /smallpox virus天花病毒/ *to* 
+/Republicans共和党人/ *who[]* advocated decreased /funding经费/ for basic research.
+from A to B prep短语做后置定语，修饰many other groups
 
+If you are part of the group, *which[]* you are addressing, you will be in a
+position *to know the experiences and problems[] which[]* are common to all of
+you and it'll be appropriate for you to make /a passing remark随意的评判/ *about[]*
+/the inedible canteen food难以下咽的食物/ or the chairman's notorious bad taste in
+ties.
+如果你是你讲话对象中的一员，那么你就身处一个(有利)位置来了解对你们所有人来说都很普遍
+的经历和问题，而且你对餐厅中难以下咽的食物或老总臭名昭著的领带品味进行随意批评也是合适的。 
+定语从句 & 不定式 & prep短语 做后置定语
+
+** 比较结构
+*** 同级比较
+as .. as
+not so .. as   
+
+*** 比较级
+more than
+
+*** 最高级
+the most
+
+*** 倍数表达
+x times as .. as
+x times more than
+
+*** A不如B
+less A than B / not as/so A as B 
+This parcel is less heavy than that one.
+This parcel is not so heavy as that one.
+
+*** A和B两者都不行
+no more A than B 
+You have no more money than I have.
+He is no richer than I.
+
+*** A不亚于B
+no less A than B
+She is no less smart than her sister.
+
+*** 与其说B不如说A
+more + A(adj/adv原级) + than B
+He is more shy than unsocial.
+He is more *of a poet[]* than a king.
+perp短语是adj
+
+*** A达到了who不能..的程度
+more A than who can
+He earns more money than he can spend.
+The beauty of nature is more than I can describe.
+
+*** 不仅仅是
+more than + 动词
+Your contribution to the country more than moved us.
+He more than smiled: he laughed outright.
+
+*** 比较结构长难句
+   Besides, this is unlikely to produce /the needed number of所需数量的/
+   every kind of /professional专业人才/ *in a country[] as large as[]* ours
+   *and[] where[]* the economy *is* /spread over延伸到/ so many states and
+   *involves* so many international corporations.
+   prep短语做后置定语
+   as large as 第一个as是adv修饰adj large，后面的as是prep
+   where引导定语从句
+   and 并列结构 as large as & where 都是修饰前面country的
+
+   For the women *of my generation[] who[]* /were urged to极力主张/ keep
+   /juggling同时在处理很多事情/ /through the late' 80s在80年代后期/, 
+   /downshifting有所下降/ /in the mid-90s 90年代中期/ is *not so much* a search
+   for the mythical good life -- growing your own /organic vegetables有机蔬菜/,
+   and /risking turning into one冒着风险变为神秘美好的生活/ -- *as* a personal
+   /recognition认识/ of your limitations.
+   prep短语做后置定语，who引导定语从句，两个后置定语一同修饰women
+   not so much .. as .. 与其说 .. 不如说 ..
+   对于我们这一代，在整个80年代末90年代初都在疲于奔命的女性来讲，在90年代中期工作强度的降低
+   与其说是在寻找神秘而美好的生活 -- 种植有机蔬菜，不惜一切风险把生活变为神秘美好的生活
+   -- 还不如是对个人能力有限的清醒认识。
+   
+   Interest *in historical methods[]* has arisen /less through较少来自/
+   external challenge *to the /validity真实性/ of history[] as an*
+   */intellectual discipline智慧的学科/* and /more from更多来自/
+   internal /quarrels争吵/ *among historians themselves[]*.
+   人们之所以对研究历史的方法感兴趣，主要是因为历史学家们内部分歧过大，其次才是因为外界
+   并不认为历史是一门学科。
+   challenge to 关于..的挑战
+
+   When the United States entered just such as a /glowing period辉煌的时期/
+   *after the end of /the Second World War二战/*, it had a market *eight times*
+   *larger than* any competitor, *giving[]* its industries /unparalleled无以伦比/
+   /economies of scale经济规模/.
+   二战后，美国就进入了这样一个辉煌的历史时期。它拥有比任何竞争者多8倍的市场，这使其
+   工业经济规模前所未有。
+   when引导时间状语，非谓语动词giving引导结果状语
+   n + doing 两种可能 1. doing做后置定语 2. doing引导状语从句
+   n + which 一定是定语从句
+   疑问词做句首 两种可能 1. 主语从句 2. 状语从句
+   
+   *What they found[]*, *in attempting to model thought[]*, is that the human
+   brain's /roughly大概/ one hundred billion nerve cells *are* *much more*
+   talented -- and human /perception感知/ *far more* complicated -- *than*
+   previously imagined.
+   在试图建造思维模型的过程中，研究人员发现，人类大脑中的近1000亿个神经细胞要比以前
+   想象得更聪明，人类的感知也比以前想象得更复杂。
+   两个逗号之间没有谓语，就是插入语，类似于同位语，可以忽略不看
+   are是谓语 前面是n/pron成分
+   
+   A century ago, Freud /formulated形成了/ his /revolutionary革命性/ theory
+   *that[]* dreams were the /disguised shadows伪装的投影/ of our /unconscious/
+   /desires and fears无意识的欲望和恐惧/; by the late 1970s, /neurologists神经科学家/
+   had switched to thinking of them *as just[]* "mental noise" -- the random
+   *by[]* products *of[]* the neural-repair work *that[]* goes on during sleep.
+   一个世纪以前，弗洛伊德阐述了他的革命性理论，这个理论即是梦是对我们无意识的欲望和恐惧的
+   一种变相的投影；到了20世纪70年代末期，神经科学家转向认为他们是心理上的噪音，在睡眠过程
+   中进行的神经修复工作的偶然产生的副产品。
+   n + that 1.定语从句 2.同位语从句
+   as just 同级比较？
+   -- 引导同位语
+   prep短语做后置定语
+   the random by products 偶然的副产品
+   
+** 倒装句
+   最基本的句子结构是主谓
+   倒装：谓语 + 主语
+   倒装句，把谓语拿到主语前面
+   句子的核心是谓语，主语可以省略，所以把谓语放到前面来是为了强调突出
+*** 部分倒装
+    助动词，系动词，情态动词 提前
+    1. 虚拟语气，if省略，从句要用部分倒装
+    Had I been informed eariler, I would have done something to prevent it.
+    2. only引出状语时，主句要用部分倒装
+    Only in this way, can you succeed.
+    Only when you stick to your review plan, can you pass the examination.
+    Only in modern cities, can we have such a colourful cultural life.
+    3. 否定词置于句首
+    4. so/neither/no置于句首
+*** 完全倒装
+谓语动词 提前
+** 独立主格
+** 强调句 
 ** with复合结构
 ** 小词的特殊用法
 *** it
 it三种可能 
 只要出现it，不一定是在句首，或做主语，就只有三种可能
 1. 指代后面紧跟着出现的不定式
+   It's adj for sb to do sth
 2. 指代后面出现的that引导的主语从句
 3. 指代前面出现的东西
 *** if引导状语从句
@@ -207,7 +385,7 @@ it三种可能
    
    *so..(that)如此..以至于* 有,是结果
    We all arrived at eight, so (that) the meeting began promptly.
-   
+*** as
 * 8种句子成分
 | 成分     | 主 | 谓 | 宾 | 定  | 状  | 补 | 表语 | 同位语 |
 |----------+----+----+----+-----+-----+----+------+--------|
@@ -220,6 +398,12 @@ it三种可能
 be动词
 
 句法
+
+翻译
+adj翻译放到名词前面，或单独成句
+adv翻译放到句首
+
+prep短语做状语，短语不是句子，不是状语从句，因此状语是个prep短语
 
 四类从句
 n(主/宾/表/同位)
@@ -311,7 +495,7 @@ A man committed to his goal will succeed.
 *** n + to do(不定式)
 Time to say goodbye. *到了*说再见的时候了。
 
-** adj/prep短语
+** adj/adj短语/prep短语
 *** n + adj
 The basket full of fruits belongs to the beautiful girl.
 *** 不定代词(something,somebody,someone等) + adj
