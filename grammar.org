@@ -349,26 +349,109 @@ He more than smiled: he laughed outright.
    prep短语做后置定语
    the random by products 偶然的副产品
    
-** 倒装句
+** 倒装句(强调句) 
    最基本的句子结构是主谓
    倒装：谓语 + 主语
    倒装句，把谓语拿到主语前面
    句子的核心是谓语，主语可以省略，所以把谓语放到前面来是为了强调突出
 *** 部分倒装
     助动词，系动词，情态动词 提前
-    1. 虚拟语气，if省略，从句要用部分倒装
+    1. 虚拟语气，if省略，从句要用部分倒装，强调状语是虚拟时
     Had I been informed eariler, I would have done something to prevent it.
-    2. only引出状语时，主句要用部分倒装
+    2. only引出状语时，主句要用部分倒装，强调状语是唯一时
     Only in this way, can you succeed.
     Only when you stick to your review plan, can you pass the examination.
     Only in modern cities, can we have such a colourful cultural life.
-    3. 否定词置于句首
-    4. so/neither/no置于句首
+    尽管only置于句首，但没有修饰状语，就不用倒装
+    Only Alex can do it.
+    3. 否定含义的词引出状语时，主句要用部分倒装，强调状语是否定时
+| little | seldom   | in no circumstances | nowhere     |
+| hardly | scarcely | on no account       | at no time  |
+| rarely | never    | not only            | in no sense |
+       Not until the late 1940s /did助动词/ China's history come to a great turning point.
+       当否定词，没有引出状语，就不用倒装，如下面修饰的是主语时
+       Not all *that[]* glitters is gold.
+    4. so/neither/nor置于句首，强调adj时
+       So /severe严重/ was the storm that the pilot couldn't fly through it.
 *** 完全倒装
 谓语动词 提前
+1. there/here置于句首引出句子，且主语不为人称代词时，完全倒装
+There comes a bus.
+There he comes
+   The door opened and there entered a man.
+   2. 强调时间/地点的状语，副词置于从句句首时，完全倒装
+At the other end of computers sit a lot of smart students.
+*** 倒装练习
+Amid /rumors流言/ *that[]* there were /prehistoric mammoths史前猛犸/ /wandering around游荡在/ the unknown
+region and *that[]* /somewhere in its wilds在它野外的地方/ *was[]* a mountain *of rock salt[]* /80 by 45/
+/miles in extent 80厘米长45厘米宽/, the two /captains队长/ /set out出发/.
+n + that 1. 定语从句(that做主语/宾语) 2. 同位语从句(that不做成分)
+somewhere方位副词放在句首，后面完全倒装
+
+Soldiers rarely hold the ideas *that[]* movies /attribute to赋予/ them, *nor do* ordinary citizens devote
+their lives to unselfish service of humanity.
+士兵很少有电影赋予他们的理念，一般的公民也很少奉献他们的生命为人类无私服务。
+
+Indeed, *had[]* it not been for the superb preservation of these fossils, they might well have
+been classified as Dinosaurs.
+实际上，要不是这些化石被极好的保存下来，他们也许就会被分类分到恐龙类别里面去了。
+省略if后be动词/情态动词/助动词置于句首
 ** 独立主格
-** 强调句 
-** with复合结构
+   n + adj/adv/prep短语/非谓语动词
+1. 做状语
+2. 不能有连词，用逗号与主句隔开
+3. n为独立的主语，与主句主语不一致
+跟非谓语动词做状语最大的不同的是，独立主格的主语与主句的主语是不一致的
+*Time permitting[]*, the celebration will be held as scheduled.
+时间允许的话，庆祝活动将会如期举办。
+After class was over(=Class being over / Class over), the students soon left  the classroom.
+
+*** 基本结构(with复合结构，是独立主格前3种结构的特殊变形)
+1. n + 非谓语动词(doing/done/to do)
+(with)The problem being solved, we went home.
+非谓语动词现在分词时态： 1. 正在发生 2. 已经完成
+这里是已经完成 After the problem was solved, we went home.
+(with)The problem solved, we went home.
+条件状语
+(with)So much homework to do, I can't watch TV.
+原因状语
+
+2. n + prep短语
+(with)Books in his hand, our teacher came in.
+伴随状语
+
+3. n + adj/adv
+Peter fell asleep, (with)lights on.
+
+4. n + 特殊结构(there being/it being，这两个特殊的没有with复合结构)
+There being nothing to do, we went home.
+It being a holiday, all the shops were shut.
+
+*** 长难句分析
+Agirculture is the country's chief source of wealth, wheat being by far the biggest cereal crop.
+农业是这个国家的主要经济来源，小麦是最大的谷类作物。
+现在分词 being主动 been被动
+
+There being nothing more for discussion, the meeting /came to an end到尾声/ half an hour earlier.
+因为没什么要讨论的，会议到尾声提前了半个小时。
+
+There being no cause for alarm, the old man went back to his bedroom.
+因为没有危险警报了，老人回到他的卧室。
+
+?, he can now only watch it on TV at home.
+，他现在只能在家看电视。
+状语的主语是？与主句主语是否一致，不一致须要用独立主格
+状语的非谓语动词是主动还是被动
+非谓语动词的否定应该放在那儿
+
+But brain researchers have discovered that when we consciously develop new habits, we create parallel
+synaptic paths, and even entirely new brain cells, that can jump our trains of thought onto new,
+innovative tracks.
+
+Today, surrounded by promises of easy happiness, we need art to tell us, as religion once did, Memento
+mori: remeber that you will die, that everything ends, and that happiness comes not in denying this
+but in living with it.
+
 ** 小词的特殊用法
 *** it
 it三种可能 
