@@ -397,6 +397,7 @@ been classified as Dinosaurs.
 实际上，要不是这些化石被极好的保存下来，他们也许就会被分类分到恐龙类别里面去了。
 省略if后be动词/情态动词/助动词置于句首
 ** 独立主格
+   有独立主语格式，做状语
    n + adj/adv/prep短语/非谓语动词
 1. 做状语
 2. 不能有连词，用逗号与主句隔开
@@ -407,7 +408,9 @@ been classified as Dinosaurs.
 After class was over(=Class being over / Class over), the students soon left  the classroom.
 
 *** 基本结构(with复合结构，是独立主格前3种结构的特殊变形)
-1. n + 非谓语动词(doing/done/to do)
+    非谓语动词的否定在非谓语动词前面
+    tell sb (not) to do sth
+1. (with) n + 非谓语动词(doing/done/to do)
 (with)The problem being solved, we went home.
 非谓语动词现在分词时态： 1. 正在发生 2. 已经完成
 这里是已经完成 After the problem was solved, we went home.
@@ -416,11 +419,11 @@ After class was over(=Class being over / Class over), the students soon left  th
 (with)So much homework to do, I can't watch TV.
 原因状语
 
-2. n + prep短语
+2. (with) n + prep短语
 (with)Books in his hand, our teacher came in.
 伴随状语
 
-3. n + adj/adv
+3. (with) n + adj/adv
 Peter fell asleep, (with)lights on.
 
 4. n + 特殊结构(there being/it being，这两个特殊的没有with复合结构)
@@ -438,19 +441,30 @@ There being nothing more for discussion, the meeting /came to an end到尾声/ h
 There being no cause for alarm, the old man went back to his bedroom.
 因为没有危险警报了，老人回到他的卧室。
 
-?, he can now only watch it on TV at home.
-，他现在只能在家看电视。
+Not having obtained a ticket for the match, he can now only watch it on TV at home.
+由于之前没有获得比赛票，他现在只能在家看电视。
 状语的主语是？与主句主语是否一致，不一致须要用独立主格
 状语的非谓语动词是主动还是被动
 非谓语动词的否定应该放在那儿
+状语中的have done时态在主句can时态前
+非谓语动词的否定在非谓语动词前面
+tell sb (not) to do sth
 
-But brain researchers have discovered that when we consciously develop new habits, we create parallel
-synaptic paths, and even entirely new brain cells, that can jump our trains of thought onto new,
-innovative tracks.
+But brain researchers have discovered *that[]* *when[]* we /consciously有意识地/ develop new habits, 
+we create /parallel synaptic paths相似的路径/, *and even entirely new brain cells[]*, *that[]* can jump
+our trains of thought onto new, innovative tracks.
+宾语从句 状语从句 插入语 定语从句
 
-Today, surrounded by promises of easy happiness, we need art to tell us, as religion once did, Memento
-mori: remeber that you will die, that everything ends, and that happiness comes not in denying this
-but in living with it.
+Today, *surrounded[]* by promises of easy happiness, we need art to tell us, *as[] religion* once did,
+Memento mori: remeber that you will die, that everything ends, and that happiness comes not in denying
+this but in living with it.
+如今人们被这种快乐可以轻易得到这种承诺所包围着，我们需要艺术像过去的宗教一样来告诉我们，死亡的象征(生命无常)：
+请你记住人总会死去，一切终将结束，幸福不是来自于否定生命无常，而是要与之共存。
+非谓语动词逻辑主语是主句主语，过去分词逻辑关系上上被动
+tell sb sth 双宾语
+as 引导方式状语从句 像...一样
+not .. but 不是..而是..
+多个词并列时 前面的都不加and 只用逗号隔开 and只在最后结束的那个加
 
 ** 小词的特殊用法
 *** it
