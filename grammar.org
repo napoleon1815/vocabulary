@@ -483,6 +483,79 @@ it三种可能
    *so..(that)如此..以至于* 有,是结果
    We all arrived at eight, so (that) the meeting began promptly.
 *** as
+三种词性prep/adv/conj
+**** prep
+     | regard .. as | be known as    | consider as      |
+     |--------------+----------------+------------------|
+     | use .. as    | describe .. as | be remembered as |
+     | work as      | act as         | be honored as    |
+     
+像，如，作为
+They got united as one man.
+As a writer, he was famous.
+**** adv
+as .. as里的第一个as
+**** conj
+引导状语从句
+Peter is not *so/as[]* smart *as[]* you think.
+(as .. as 像..一样，第一个as副词，第二个as连词)
+We get wiser as we get older.(引导时间状语从句)
+As it is getting dark, we have to turn back.(引导原因状语从句)
+When in Rome, do as Romans do.(引导方式状语从句)
+As long as you study hard, you will make progress.
+(引导条件状语从句，真实条件状语从句(主将从现)，虚拟语气)
+(引导让步状语从句，翻译成尽管时， *要部分倒装* 有两种基本形式)
+1. n(n前面不加冠词)/adj/adv + as + 主语 + 谓语
+Child as he is, he knows a lot about physis.
+Much as he likes playing online games, he has no time to do so.
+尽管他希望玩网络游戏，但他没有时间玩。
+Late as it was, he continued to study.
+尽管已经很晚了，他仍然继续学习。
+2. 动词 + as + 主语 + may(might/will/would)
+Try as he would, he could not get the first place.
+尽管他努力尝试，但他得不到第一名。
+
+引导定语从句
+as引导定语从句，特殊之处：定语从句可以放在句首，指代整个句子
+As is known to all, learning a foreign language is useful.
+众所周知，as引导定语从句，指代后面的句子
+As is expected, he got first place.
+像预计的一样，他得了第一名。
+
+As I explained on the phone, your request will be considered at the next meeting.
+as引导定语从句，指代后面整个句子
+
+Quiet student as he may be, he talks a lot about his favourite singers after
+class. 
+
+*** 强调句
+强调句最大特点，当把强调框架it is/was .. that/who去掉，“被强调部分 + 句子其他成分”
+能使整个句子结构完整
+1. 对陈述句强调
+It + is/was + 被强调部分(除谓语外的任何成分) + that/who + 句子其他成分
+It is *the children(强调主语)* who broke the window.
+是孩子们打破窗户的。
+It was *to you and not anyone else(强调宾语)* that I lent the money.
+我只借钱给你，不借给其他人。
+It is *only when you have your own children(强调状语)* that you realize the troubles of
+parenthood.
+当你有了自己的孩子，才能了解到双亲的辛苦。
+
+2. 对一般疑问句强调
+Is/Was + it + 被强调部分 + that/who + 句子其他成分
+Is it *the children(强调主语)* who broke the window.
+Was it *to you and not anyone else(强调宾语)* that I lent the money.
+Is it *only when you have your own children(强调状语)* that you realize the
+troubles of parenthood.
+
+3. 对特殊疑问句强调
+(Who/What/When/Where/Why/How) + is/was + it that ..
+*When(强调when)* was it that he got married?
+他是什么时候结婚的？
+*How long ago(强调how long ago)* is it that you last saw her?
+你上次看见她是多久以前的事？
+*Who(强调who)* was it that won the World Cup in 1982?
+谁赢得了1982年的世界杯？
 * 8种句子成分
 | 成分     | 主 | 谓 | 宾 | 定  | 状  | 补 | 表语 | 同位语 |
 |----------+----+----+----+-----+-----+----+------+--------|
