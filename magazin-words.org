@@ -1,0 +1,243 @@
+* day 13
+prominent adj 突出的\\
+(pro-向前(普罗米修斯，先知先觉) min-moun山(mountain)/小 ent-adj/n后缀 -> 拔尖的)\\
+eminent adj 突出的\\
+(e/ex-向外 min-山／小 eng-adj/n后缀 -> 像山一样出来的)\\
+
+evangelical adj 1.福音派教会的 2.狂热的\\
+(ev/ex/e-向外 angel-天使 ical-adj后缀 -> 派出天使的)\\
+
+substitute n 替代品\\
+(sub-下面 stit-站(stand) ute-n后缀(minute n 小) -> 站在下面候着的东西)\\
+eg. There is no substitute for hard work. 没有什么能够替代努力工作。\\
+
+constitution n 宪法\\
+(con-全部，共同，所有 stit-站(stand) ution-n后缀 -> 站在所有人立场的东西 -> 宪法)\\
+
+precedent n 先例\\
+(pre-向前 ced-走 ent-adj/n后缀(parent par-一对 ent-n后缀) -> 走在前面的事情)\\
+
+intercede v 干涉\\
+(inter-在...之间(interview(相互看->)采访 international(国家之间的->)国际的) ced-走 -> 走到中间来)\\
+
+monopoly v 垄断\\
+(mono-单(monologue(独自说话->)独白) poly-用(employ雇佣) -> 只用一家)\\
+
+* day 14
+conniption n 歇斯底里\\
+(con-全部 nip-不(nope 元音主要发音，辅音辅助表义) tion-n后缀 -> 全部都否定)\\
+
+frothy adj 起泡的\\
+(froth n 泡沫(fr->fire o->泡 th->嘶嘶声 -> 用火煮开后，锅里都气泡) y-adj后缀)\\
+
+distortion n 曲解
+(dis-否定 tort-扭曲，扭转(turn) ion-n后缀 -> 向不好的方向转)
+
+torture v 折磨
+(tort-扭曲 ure-n后缀 -> 让人非常拧巴)
+
+volatile adj 不稳定的
+(vol-转动(拟声) at(e)-n/v/adj后缀 ile-adj后缀 -> 一直转个不停的)
+
+avert v 避免
+(a-加强(ad)/否定(ab) vert-转动(拟声) -> 转开了，没打到)
+
+* day 15
+successor n 继任者
+(suc/sub-向下(subway地铁) cess-走 or-n后缀，表人 -> 继续往下走下去的人)
+
+recession n 经济衰退
+(re-返回 cess-走 ion-n后缀 -> 往回走)
+
+success v 成功
+(suc-向下 cess-走 -> 可以继续往下走下去了)
+
+rein n 缰绳
+(re-往回 in-向内 -> 把缰绳往里，往回拉)
+
+acquire v 获得
+(ac-加强 quir/quis-获得(require 往回拿->需求))
+acquisition n 并购
+(ac-加强 quir/quis-获得(require 往回拿->需求) ition-n后缀)
+
+squander v 浪费
+(s->死 quan->哐，钱币声 der->流水声 -> 花钱如流水)
+
+dominant adj 主导的
+(dom/domin-家(domestic国内的) ant-/n/adj后缀(account n important adj) -> 家的地位永远都是主导的)
+
+* day 16
+  solitary adj 单独的，孤独的
+  (sol-单独(solo独奏 audio以o结尾常跟声音有关) it-走 ary-adj后缀)
+  (一个人走的 -> 单独的，孤独的)
+  
+  solitude n 孤独
+  (sol-单独 itude-n后缀，表抽象)
+
+  crucial adj 关键的
+  (cruc-十字，交叉(cross) ial-adj后缀)
+  
+  distinction n 区别
+  (dis-发散 (s)tinct-刺(sting叮，刺) ion-n后缀)
+
+  malicious adj 恶意的
+  (mal-坏(male男) ic(e)-n后缀(novice新手 nov-新(new)) ous-adj后缀)
+  (bene-好(benefit))
+
+  simultaneous adj 同时的
+  (sim-相同(same) ul-中缀 tane-时间(time) ous-adj后缀)
+  (相同时间的 ->v 同时的)
+
+  revenge n 复仇
+  (re-往回 venge-惩罚(谐音联想“敢玩哥”))
+  (反回来惩罚 -> 复仇)
+
+  vengeful adj 复仇心重的
+  (venge-惩罚 ful-adj后缀，表满)
+
+* day 17
+  autonomous adj 自主的
+  (auto-自动 nom-名字，权利(name) ous-adj后缀)
+  (自己有权利的 -> 自主的)
+  
+  nomination n 提名
+  (nom-名字 in-向里 ation-n后缀)
+  (名字上榜了 -> 提名)
+
+  radical adj 彻底的，激进的
+  (rad-根 ic-adj/n后缀 al-adj/n后缀)
+  (根除了的 -> 彻底的，激进的)
+  (ic-adj后缀 fanatic 狂热的)
+  (ic-n后缀 critic 批评家)
+  (al-adj后缀 personal 个人的)
+  (al-n后缀 animal 动物)
+
+  compulsory adj 强制的，必须的
+  (com-全部，共同，所有 puls-推(pull + push) ory-adj/n后缀)
+  (推拉着全部参加的 -> 强制的，必须的)
+  (ory-n后缀 factory(fact-做) 做东西的地方->工厂)
+  (ory-n后缀 victory(vict-胜利) 胜利)
+  (ory-adj后缀 satisfactory 满意的)
+  
+  concur v 认为
+  (con-全部，共同，所有 cur-跑，流动(car))
+  (全都跑向一个地方，想法一致 -> 认为)
+  
+  currency n 货币
+  (cur-跑，流通，流动(car) r ency-n后缀)
+  (在市场上能流通的东西 -> 货币)
+  
+  liability n 责任
+  (li(e)-存在 ability-n后缀，表能力)
+  (每个人都要存在的东西 -> 责任)
+* day 18
+  duration n 持续时间
+  (dur-持续(durex dur-持久 ex-极限 杜蕾斯) ation-n后缀)
+  Love can not be measured by its duration.
+  durable adj 持久的
+
+  pinch n 疼痛
+  (pin n 大头针 ch-ouch啊呦)
+  
+  retain v 保持
+  (re-1.反复 2.返回 tain-拿(take in) 反复不断的拿 -> 保持)
+  
+  detain v 扣留
+  (de-向下 tain-拿 拿下 -> 扣留)
+  
+  tuition n 学费
+  (tuit/tut-教 ion-n后缀)
+  tutor n 家庭教师
+  intuition n 直觉
+  (in-不 tuit/tut-教 ion-n后缀 不用教的东西 -> 直觉)
+  
+  beer n 啤酒
+  peer n 同龄人
+  (同龄人在一起喝啤酒)
+* day 19
+  consistency n 连贯性
+  (con-全部，共同，所有 sist-站立(stand) ency-n后缀)
+  (全部站在一起，紧密排在一起 -> 连贯性)
+  
+  resist v 抵抗
+  (re-1.返回，相反 2.重复 sist-站立 站在相反的位置 -> 抵抗)
+
+  freakish adj 畸形的
+  ()
+
+  horn n 角
+  corn n 玉米
+  porn n 黄色，成人
+  scorn 鄙视，轻蔑
+  (sc s-死 c-cry喊 死命喊，看不起 -> 鄙视)
+  ( 美 [skɔ:rn] k->g s后面加辅音，辅音要发浊辅音 (student t->d))
+
+  fudge v 篡改
+  (fu-服 d-的 ge-哥 服了哥，你老是篡改数据 -> 篡改)
+  
+  zigzag n z字形状
+  (zig/zag-急转弯 2哥急转弯 -> z字形状)
+  
+  volume n 卷
+  (vol-转动(拟声) ume-n后缀)
+  volatility n 挥发性
+  (vol-转动(拟声) at(e)-n/v/adj后缀 + il(e)-adj后缀 ity-n后缀)
+  (转着圈的挥发没了)
+  
+  fertile adj 土壤肥沃的，生育能力强的
+  (fert- ile-adj后缀)
+* day 20  
+  barbarian n 野蛮人 adj 野蛮的，未开化的
+  (barbar-胡说(拟声，小孩说话的原始阶段) adj/n后缀)
+  (ian-adj后缀 Canadian adj 加拿大的)
+  (ian-n后缀，表人 historian n 历史学家 comedian n 喜剧演员)
+  
+  prosper v 使繁荣，使成功 
+  (pro-向前 sper-希望 向前是能看到希望的)
+  (美 [ˈprɑ:spə(r)] p->b)
+  prosperous adj 繁荣的
+  prosperity n 希望
+  desperate adj 绝望的
+  (de-1.向下 2.否定 3.加强 sper-希望 ate-v后缀)
+  (没有希望的 -> 绝望的)
+  
+  stumble v 跌倒，出错
+  (st-脚(stay, stand, still) ble -> 跌倒，出错)
+  humble adj 谦虚的
+  (hum-泥土 ble 接地气的 -> 谦虚的)
+  
+  equivalent adj 对等的
+  (equ-相等 i-中缀 val-1.价值(value) 2.强壮 ent-adj后缀(present adj 现在的))
+  (价值相等的 -> 对等的)
+  valid adj 有效的
+  (id-adj后缀 stupid adj 愚蠢的)
+  invalid adj 无效的
+  
+  lavish adj 浪费的
+  (lav-冲洗 ish-adj (childish adj 幼稚的))
+  (花钱像冲洗的 -> 浪费的)
+  lavatory n 盥洗室
+  (冲水的地方 -> 盥洗室)
+* day 21
+combustible adj 易燃的
+(com-全部，共同，所有 bust-燃烧(burn) ible-adj后缀，表能)
+(所有东西都能燃烧的 -> 易燃的)
+combustion n 燃烧，烧毁
+
+disdain v 鄙视
+(dis-1.否定 2.发散 dain-尊严(联想“大人”))
+(没有尊严，看不起 -> 鄙视)
+
+audacious adj 大胆的
+(aud-bold adj 大胆的 n 粗体字 acious-adj后缀，表多的)
+(acious-adj后缀，表多的 space n 空间 spacious adj 空间很大的)
+(acious-adj后缀，表多的 rap n/v 强奸，掠夺 rapacious adj 贪婪的)
+
+exude v 渗出，流出
+(ex-向外 ude)
+include v 包含
+
+sustain v 维持
+(sus-向下 tain-拿(take in) 拿着走下去，不丢弃 -> 维持)
+detain v 拘留
+(de-向下 tain-拿(take in) 拿下 -> 拘留)
