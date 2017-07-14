@@ -1,0 +1,93 @@
+定位与导航
+
+orientation n 方向，定位
+(ori-升起 ent-n ation-n 太阳升起 -> 方向，定位)
+
+navigation n 航行
+(nav-船 ig/ag-行走，行动 ation-n)
+navigate n
+(ate-n)
+
+perplex v 困扰，迷惑
+(per-全部 plex-重叠)
+
+initiate v 发起，创立
+(in-里 it-走 i-中缀 ate-v)
+
+orient v 定位
+(ori-升起 ent-v)
+
+vacation n 假期
+(vac-空 ation-n)
+
+migratory adj 迁徙的
+(migr-走，搬 atory-adj)
+
+restless adj 焦躁的
+(rest-平安，平息 less-adj少)
+
+overcast n 阴天
+(over上面 cast扔 在每个人头顶上面扔个东西)
+
+surmise v 推测
+(sur/sub-底 mis-发送 e)
+(只能在底下发送，经不起推敲 -> 推测)
+
+compass n 罗盘
+(com-共同 pass-穿过)
+(有它哪里都能穿过去底的东西 -> 罗盘)
+
+preposterous adj 荒谬的，可笑的
+(pre-在..前 post-在..后 erous-adj)
+(走起路来一前一后的 -> 荒谬可笑的)
+
+identical adj 相同的
+(ident-相似 ic-adj al-adj)
+
+stationary adj 固定的
+(stat-站立 ion-n ary-adj)
+
+revolve 转
+(re-加强 volv-卷，转 e 一直转 -> 转)
+
+confusion n 疑惑
+(con-共同 fus-流淌 ion-n)
+(都流到一块去)
+
+disoriented adj 迷失方向的
+(dis-分散 ori-方向 ent-n ed-adj)
+
+artificial adj 人工的
+(art-技术 i-中缀 fic-做 ial-adj)
+
+compensate v 抵消，弥补，补偿
+(com-共同 pens-挂，撑，价值 ate-v)
+(称上两边都平衡，谁也不缺)
+
+precise adj 精准的
+(pre-前 cis-切 e)
+
+planetarium n 天文馆
+(planet-行星 arium-n场所)
+
+domelike adj 穹顶状的
+(dom-家)
+
+rotate v 旋转
+(rot-旋转 ate-v)
+
+magaetism n 磁场
+(magaet-磁 ism-n)
+
+sonar n 声波
+(son-声音 ar-n)
+
+contradictory n 矛盾
+(contra-相反 dict-说话 ory-n)
+
+mechanism n 物理过程
+(mechan-机械 ism-n)
+
+sensory adj 感知的
+(sens-感觉 ory-adj)
+

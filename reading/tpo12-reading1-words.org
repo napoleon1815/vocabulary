@@ -1,0 +1,53 @@
+他到底用哪只手
+
+trace v 绘画
+(tra/tract-绘画 (a)ce-v)
+
+predominant adj 主导的，主要的
+(pre-向前 domin-统治 ant-adj)
+
+furnish v 提供
+(furn-拥有 ish-v)
+
+engraving n 雕板
+(en-使 grav-切割 ing-n)
+
+muscular adj 强壮的，肌肉发达的
+muscle n 肌肉
+
+noticeable adj 明显的
+(not-标记 ice-n able-adj)
+
+fracture n 裂痕，骨折
+(fract-断裂 ure-n)
+
+reveal v 揭示
+(re-回 veal-面纱)
+
+neolithic adj 新石器时代的
+(neo-新(new) lith-石时 ic-adj)
+
+preserve v 保存
+(pre-加强 serv-保存 e)
+
+assess v 评估
+(as-加强 sess-坐)
+(坐下来像评委一样 -> 评估)
+
+crescent adj 月牙状的
+(cre-生长，制造 scent-adj)
+
+sequence n 顺序
+(sequ-跟踪，跟随 ence-n)
+
+cerebral adj 大脑的
+(cerebr-大脑 al-adj)
+
+hemispherical adj 半球的
+(hemi-半 spher-球 ical-adj)
+
+asymmetrical adj 不对称的
+(as-不 sym-共同 metr-测量 ical-adj)
+(不能状一起量的 -> 不对称的)
+
+
