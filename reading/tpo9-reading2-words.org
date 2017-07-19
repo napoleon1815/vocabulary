@@ -1,7 +1,7 @@
 教学的反思
 
 reflection n反思，反射，反应
-(re-回 flect-弯曲 ion-n 向回弯)
+(re-回 flect-弯曲 ion-n 把尺子向回弯 -> 反弹，反思，反射)
 
 interaction n相互影响
 (inter-之间，相互 act-做 ion-n)
@@ -13,43 +13,45 @@ justified adj正确的
 (just-正当的，正确的，法律的 ified-adj)
 
 discipline n准则，规则
-(dis/doc-教导 cipline-n)
+(dis/doc-教导(document) cip-拿 line-n 拿来教导人的东西 -> 准则，规则)
+disciple n 学徒 (dis/doc-教导(document) cip-拿 le-n 拿来教导的人 -> 学徒)
 
 literature n文献
 (liter-文字 ature-n)
 
-strategy n策略
-(strat-军队，部队  egy-n)
+strategy n 策略
+(strat-军队，扩散，层次(spread out)  eg／ag-做 y-n 引导军队作战 -> 策略)
 
 conception n概念，理念
-(con-全部 cept-拿 ion-n)
+(con-全部 cept-拿 ion-n 全都能拿到，涵盖到 -> 概念，理念)
 
 systematic adj系统的
 (system系统(sy-全部 st-站立 em-n 能把知识全部站立起来->系统) atic-adj)
 
-utilitarian adj公立的
-(utilit-有用 arian-adj)
+utilitarian adj 有用的 (ut-用 il(e)-adj it-n arian-adj)
+utility n 有用 (ut-用 il(e)-adj ity-n)
 
 tendency n更愿意，更喜欢，趋势
 (tend-伸展 ency-n)
 
-contributory adj促进的
-(con-全部 tribut-给 ory-adj)
+contributory adj 贡献的
+(con-全部 tribut-给 ory-adj 全都给出去的 -> 贡献的)
+contribute v 贡献 (con-全部 tribut-给 全都给出去 -> 贡献)
 
 revise v重新修订，重新认识
 (re-再 vis-看 e 再看一次)
 
-facilitate v促进，促成
-(fac-做 ilitate-v)
+facilitate v促进，促成 (fac-做 il(e)-adj it-n ate-v使 使做出 -> 促进，促成)
+facile adj 轻率的，肤浅的 (fac-做 il(e)-adj 就知道闷头做的 -> 轻率的，肤浅的)
 
 sufficient adj足够的，充足的
 (suf-下 fic/fac-做 i-中缀 ent-adj 在底下做好准备的)
 
-compelling adj令人信服的，精彩的
-(com-共同 pel-推 ling-adj 推动所有人情绪的)
+compelling adj 引人入胜的，扣人心弦的
+(com-全部 pel-推 ling-adj 推动所有人情绪的)
 
 institute v建立，创立
-(in-加强 stitut-站 e)
+(in-使 stitut-站 e 使站出来 -> 建立，创立)
 
 technician n技师
 (techn-技术 ic-adj ian-n从事职业的人)
@@ -58,5 +60,5 @@ motivation n动机
 (mot-运动 iv-adj ation-n)
 
 perceivable adj可感知的
-(per-全部 ceiv-拿 able-adj)
+(per-穿过 ceiv-拿 able-adj 可以穿过去拿到的 -> 可感知到的)
 

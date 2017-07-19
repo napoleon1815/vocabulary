@@ -7,36 +7,36 @@ migration n迁徙，移民
 (migr-移动 ation-n)
 
 corridor n走廊
-(corr/curs-走 idor-n 供人走路的地方)
+(cur/cor/curs/cours-跑(run) idor-n 用来跑的地方 -> 过道，走廊)
+occur v 发生 (oc-相对 cur-跑(run) 跑到一起 -> 发生)
+accurate adj 精确的 (ac-加强 cur-关心(core) ate-adj 一再关心的 -> 精确的)
 
+continent n 大陆
+(con-共同 tin-持(hold) ent-n 保持在一起 -> 大陆)
 midcontinental adj半大陆性
 (mid-中间 con-共同 tin-抓住 ent-n al-adj)
-
-paleoecologist n古生态学家
-(paleo-古代 eco-家，生态 logist-n学者)
-
-archaeologist n考古学家
-(archae-古代 o-中缀 logist-n专家)
-
-submerged adj水下的
-(sub-下 merg-沉没 ed-adj)
-
 peninsula n半岛
-(pen-相似 insul-岛 a 和岛很相似->半岛)
+(pen-相似 insul/isol-岛(insulate/isolate v 隔离) a 和岛很相似->半岛)
 
-influential adj影响的
-(in-进入 flu-流淌，流动 ent-adj ial-adj)
+paleoecologist n古生态学家 (paleo-古代 eco-家，生态 logist-n学者)
+archaeologist n考古学家 (archae-古代 o-中缀 logist-n专家)
+(archaeo/paleo-古代(old))
+(arch-统治(rule) 联想：古代统治者早期是aeo不是ceo -> 古代)
+
+submerg v 沉下去，淹没 (sub-下 merg-沉没)
+submerged adj 沉下去的，水下的 (sub-下 merg-沉没 ed-adj)
+
+fluent adj 流利的 (flu-流)
+influence n 影响 (in-进入 flu-流 ence-n 流进去了，影响到 -> 影响)
+influential adj影响的 (in-进入 flu-流 ent-adj ial-adj 流进去的，影响到的 -> 影响的)
 
 exposed adj暴露的
-(ex-向外 pos-放置 ed-adj)
+(ex-向外 pos-放置 ed-adj 放到外面使之暴露出来)
 
-accur v出现
-(ac-去 cur-奔跑 跑出来了)
+inhospitable adj 不友好的，不热情的
+(in-不 hospit-客人，热情 able-adj)
 
-inhospitable adj不适合的
-(in-不 hospit-热情 able-adj)
-
-capable adj有能力的
+capable adj 有能力的
 (cap-抓住 able-adj能 能抓住老鼠的->有能力的)
 
 marine adj海洋的

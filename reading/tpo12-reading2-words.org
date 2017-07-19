@@ -3,3 +3,74 @@
 transition n 演变
 (trans-转换 it-走 ion-n)
 
+motionpicture n 电影
+(mot-动 ion-n picture图片)
+
+watershed n 分水岭
+(water水 shed岭)
+
+division n 区别，区分
+(divis-分割 ion-n)
+
+periodization n 周期
+(peri-圆圈 od-路 ization-n 绕着圈子走路)
+
+paradox n 矛盾
+(para-相反 dox-意见)
+
+elaborate adj 精美绝伦的
+(e-加强 labor-劳动 ate-adj)
+
+aural adj 听觉的
+(aur-耳朵 al-adj)
+
+narrateor n 旁白
+(narrate-叙述 or-n)
+
+symphony n 交响乐
+(sym-共同 phon-声音 y-n)
+
+simultaneous adj 同时的
+(simul-相似 taneous-adj)
+
+suppress v 镇压，遏制
+(sub/sup-向下 press压)
+
+novelty n 新鲜事物
+(nov-新(new) el-n ty-n)
+
+synchronization n 同步
+(syn-共同 chron-时间 ization-n)
+
+amplification n 扩大
+(ampl-大 ification-n)
+
+evaluation n 评估
+(e-出 valu／preci-价值 ation-n 给出价值 -> 评估)
+
+neglect v 忽视
+(neg-不 lect-挑选)
+
+avenue n 道路，路径
+(a-去 ven-来 ue-n 供人来往的地方 -> 道路，路径)
+
+fragile adj 易损的
+(frag-破碎(break) ile-adj)
+
+exploitation n 开发
+(ex-向外 plo/ply-重叠 it-n ation-n)
+
+collaboration n 合作
+(col/con-共同 labor-劳动 ation-n)
+
+revitalize v 复活
+(re-再 vit-生命 al-adj ize-v)
+
+dual adj 两个的
+(du-二 al-adj)
+
+prohibitive adj 阻碍的
+(pro-在..之前 hibit-放置 ive-adj)
+
+enormous adj 庞大的
+(e-向外 norm-正常 ous-adj 超出正常范围的 -> 庞大的)
