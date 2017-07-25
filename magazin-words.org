@@ -1,3 +1,207 @@
+* day 1
+* day 2
+* day 3
+* day 4
+* day 5
+* day 6
+* day 7
+colossus n 巨大的东西
+(co/com/con-共同 loss失去 us-n)
+(所有丢失的部分聚拢到一起 -> 巨大的东西)
+
+circus n 马戏团
+(circ-圆圈 us-n)
+
+legitimacy n 法律性
+(leg-法律(legal) itim-n acy-n)
+legitim n 法律
+delegate v 授权
+(de-向下 leg-法律 ate-v)
+(把法律权利往下分 -> 授权)
+
+entrenchment n 战壕
+(en-使，让  trench n沟(tree树 + bench长椅)  ment-n)
+able adj 能够的
+enable v 使能
+rich adj 富有的
+enrich v 使富有
+
+conjure 像魔法变出来一样，突然出现
+(con-全部，共同 jur-1.发誓(swear) 2.骂 e)
+(絮絮叨叨，念念有词 -> 像魔法变出来一样，突然出现)
+conjure up 搭配
+
+injure v 伤害
+(in-向内 jure-骂)
+
+squard n 广场
+squash v 压碎，碾压
+(s qu-拼音去 ash灰)
+(灰飞烟灭 -> 压碎，碾压)
+(英文单词中q后面固定搭配接的都是u quit/quite/quiet/queue)
+
+* day 8
+stabilization n 稳定
+(st-待(stay/stand/still) abl(e)-adj ize-v ation-n)
+stable adj
+stabilize v
+stabilization n
+
+residential adj 住宅的
+(re-反复 sid-坐(sit) ent-adj/n/v ial-adj)
+(日复一日坐在那儿的 -> 住宅的)
+resident n 居民
+
+transaction n 交换，交易
+(trans-改变 act-做 ion-n)
+(通过行动把东西换成别的 -> 交换，交易)
+transpot n 交通
+transformer n 变形金刚
+
+velocity n 
+(cel/vel-速度(拟声) ity-n)
+
+initial adj 最初的
+(in-里 it-走 ial-adj)
+(走进去的 -> 最初的)
+visit v 参观，拜访
+(vis-看 it-走)
+
+hike n 增长
+(h(igh) (b)ike)
+hike in sth 某一方面的增长
+The recent hike in train fares comeas a shock to commuters.
+
+limelight n 焦点
+(lime-line light)
+steal th limelight 抢风头
+
+exemplary adj 优秀的
+(example ary-adj)
+imaginary adj 想象的，假象的
+
+* day 9
+prevailing adj 占优势的，主导的，流行的
+(pre-前 vail/val-1.价值 2.力量(古时候力量就是价值) ing-adj)
+(强有力的力量推动向前的)
+interesting
+boring
+embarrassing
+preview v 预习
+predict v 预测 (dict-说)
+
+forsake v 放弃
+(for-1.相反 2.因为 sake缘由)
+for god sake 看在上帝的份上
+
+example n 例子
+(拿出来作为例子)
+exemplify v 作为一个..的典型例子
+(ex-向外 empl/ampl-拿 ify-v)
+exempt v 免除，豁免
+
+deliberate adj 故意的
+(de-1.加强 2.否定 3.向下 liber/libr-自由(library图书馆(知识是自由的)) ate-adj/v)
+(不自由的，不自然的 -> 故意的，刻意的)
+PLA(Chinese People's Liberation Army)
+
+strain n 拉紧
+(str-拉伸，延长 (tr)ain)
+(拉得很长 -> 拉紧)
+street
+stream
+stress n 压力
+
+* day 10
+iffy adj 不合适的，有质疑的
+(if如果 f y-adj)
+(假如的？ -> 质疑的)
+
+stumble v 1.跌倒 2.说话出错
+(st-待(stay) 不连续 -> 口误，跌倒)
+humble谦虚(谐音"含苞")
+Men trip not on mountains, they stumbles on stones.
+
+vacuous adj 缺乏内容的，无聊的
+(vac-空 u-中缀 ous-adj)
+vacation n 假期 (空下来的时间)
+vacant adj 空的
+occupied adj 满的
+
+spectacle n 1.(褒)壮观的景象 2.(贬)可笑的场面
+(spect-看 acle-n 看到的场面 -> 1.(褒)壮观的景象 2.(贬)可笑的场面)
+respect v 尊重，尊敬
+miracle n 奇迹
+(mir-虚幻 acle-n)
+
+asymmetry n 不对称
+(a-1.加强 2.否定 sym/syn-相同，相等(same) metr-测量(meter米) y-n/adj)
+symmetry n 对称
+
+filibuster v 用冗长的话阻碍议员发言
+(fil(l)填 i-中缀 bust(er)抓住，逮捕 er-词性贬义，一般为n，这里为v)
+(抓住说话的间隙，插满自己的话 -> 用冗长的话阻碍议员发言)
+
+terrorism n 恐怖主义
+(terr-恐怖(terriable) or-n ism-n主义)
+
+candidate n 候选人
+(cand-白 id-adj ate-adj/n)
+(古罗马人竞选时穿白衣)
+
+* day 11
+nominate v 提名
+(nomin-名字 ate-v/n/adj ate若为v则n形式为ation)
+nominee n 被提名者
+(ee n表人，跟前面v是被动关系 er n表人，跟前面v是主动关系)
+I think you should take yourself seriously but not your work.
+
+thematic
+(them(e)主题 at(e)-v/n/adj ic-adj/n)
+fanatic adj 狂热的
+critic n 批评者
+
+outstrip v 超过
+(out外面 str-延长(street stream) ip)
+(延长到外面去 -> 超过)
+(t/h/e/ip 不决定含义 hip屁股 lip嘴 dip沾)
+Ambition will, and should, always outstrip achievement.
+
+nostalgia n 怀旧
+(nost-家(nest 巢) alg-疼(all+g拼音割 全割了 -> 疼) ia-n表一种病)
+(想到家里以前的事心理很疼 -> 怀旧)
+insomnia n 失眠
+
+shatter v 打破，粉碎
+(sha-杀 t ter-ger拼个)
+(杀它个片甲不留 -> 粉碎)
+
+* day 12
+swarm n 特指昆虫的一群
+(s-加强 warm温暖)
+(聚在一起取暖 -> 一群)
+
+hive n 蜂房
+(h(ouse)房子 (l)ive生存)
+(生存的房子 -> 蜂房)
+
+nectar n 花蜜
+(nect-连接(neck脖子 connect连接) ar-n)
+(连接花粉与蜜蜂的东西)
+liar
+beggar
+
+entomology n 昆虫学
+(entom昆虫 ology-n学科)
+biology
+psychology
+
+invade v 侵略
+(in-里 vad-走 e)
+(走进去 -> 侵略)
+evade v 逃走
+(e/ex-向外 vad-走 e)
+(走出去 -> 逃走)
 * day 13
 prominent adj 突出的\\
 (pro-向前(普罗米修斯，先知先觉) min-moun山(mountain)/小 ent-adj/n后缀 -> 拔尖的)\\
