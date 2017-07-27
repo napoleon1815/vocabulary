@@ -1,9 +1,221 @@
+单词复习
+new -> 12h -> 24h -> 3day -> a week -> a month
+后缀一共就40-50个
+元音主要发音，可变化，不改变词义，可能会改变词性
+辅音表意思
 * day 1
+circulate v 传递，传播，循环
+(circ-圆圈(circle) ul-中缀 ate-v)
+accelerate
+(v是ate 其n是ation)
+The circulation of confidence is better than the circulation of money.
+
+entreaty n 请求，恳请
+(en-使，让 treat招待 y-n／adj)
+treaty n 条约，协议
+enrich
+enforce
+enable
+*Treat* people *with respect(做状语修饰前面动词treat)* if you want to be respected.
+
+hypothesis n 假设
+(hypo-向下 thesis-放置)
+(放在下面，上不了台面 -> 假设)
+synthesis n 合成
+(syn/sym-same thesis-放置)
+(放到一起)
+
+There's two possible outcomes: if the result confirms the hypothesis, then you;re nade a discovery.
+If the result is contrary to the hypothesis, then you've made a discovery.
+
+velocity
+(veloc/cel-速度 ity-n)
+accelerate
+activity
+avidity
+acidity
+
+veracity n 
+(ver-真实(verify核实 ify-v) ace/acy-n ity-n)
+classify v 分级，分类
+Trust but verify. 信任也要去验证。
+
 * day 2
+deplete v 减少，降低
+(de-向下，否定，加强("滴"强烈向下的声音) plet-满(complete 完成) e)
+decrease v 下降
+If you do something out of duty, it will deplete you but if you do something out of love
+will energize you.
+
+impose v 强加
+(im/in-向内，否定 pos-摆放(pose) e)
+(不愿意硬要放 -> 强加)
+Do not impose on others what you yourself do not desire. 已所不欲勿施于人。
+
+deposit n 存款，沉淀物
+(de pos it-走)
+
+distinction n 区别
+(dis-1.否定 2.发散 (s)tinct-刺(sting刺 c/g通假) ion-n)
+(用刺拨开 -> 区别)
+In the sky, there is no distinction of east and west; people create distinctions out of their own
+minds and then believe them to be true.
+
+agent n 代理商
+(ag-做(act行动) ent-n)
+(帮你做事的人 -> 代理商)
+There is no distinction between right and right.
+
+cognitive adj 知道的，认知的
+(cogn-知道 itive-adj)
+recognize v 认识，识别
+(re-再(repeat) cogn-知道 ize-v)
+
+transition n 过渡，转变
+(trans-改变 it-走 ion-n)
+transformer n 变形金刚
+(trans-改变 form-形状 er-n)
+Life is a cycle, life is one big transition.
+
 * day 3
+estranged adj 疏远的
+(e(n)-使 strang(e)陌生的 ed-adj)
+(使变得陌生的 -> 疏远的)
+excited bored interested embarassed
+
+realm n 王国，领域
+(real真的 m(an)-男人)
+(真男人都有属于自己的领域 -> 领域)
+We are in imprisoned in the realm of life, like a sailor on his tiny boat, on the infinite ocean.
+
+certificate n 证书，证明
+(cert-确定 i-中缀 fic-做(fiction小说 小说都是做出来的假的) ate-n/adj/n)
+certain
+certify
+(ify-v(classify))
+
+exponent n 典型，倡导者
+(ex-向外 pon/pos-放置(pose) ent-n)
+(拿到外面来 -> 典型，倡导者)
+deposit n 沉淀物，存款
+(de-下 pon/pos-放置 it-走)
+postpon
+(post-往后 pon/pos-放置)
+(往后放 -> 推迟)
+I postpone death by liring, by suffering, by error, by risking, by giving, by losing.
+
+assertion n 断言，主张
+(as-加强 sert-插入 ion-n)
+aggressive adj
+(ag-加强 gress-走 ive-adj)
+
 * day 4
+predator n 捕食者
+(pre-前 dat-捕获(data约会) or-n)
+Black widows may be powerful predators, but every predator is somebody else's prey.
+
+caveat
+(cav-洞 eat)
+(山洞里有人吃你 -> 警告)
+excavate v 挖掘
+(ex-向外 cav-洞 ate-v)
+
+nourishment n 营养品
+(nour-哺育，喂养，照顾(nurse护士) ish-v/m/adj ment-n)
+(ish-v finish)
+(ish-n English)
+(ish-adj childish)
+
+sophistication n 
+(soph-智慧(苏菲的世界) ist-n人 ic-adj/n ation-n)
+(ist-n人 scienist artist)
+(ic-adj fanatic 像粉丝一样的 -> 狂热的)
+(ic-n critic 批评者)
+(ation-n station condition consideration)
+(ation/ition/ution/tion-n)
+sophomore n 大学二年级
+(比大学一年级智慧多一点 -> 大学二年级)
+Simplicity is the ultimate sophistication.
+
+primate n 灵长目动物
+(prim-主要的，核心的，原始的 ate-n/v/adj)
+primary adj
+(prim-原始 ary-n/adj)
+(ary-n dictionary n 字典)
+(ary-adj imaginary adj 假想的)
+
 * day 5
+magnate n 巨头(人或企业)
+(magn-大 ate-n/v/adj)
+magnify v 放大
+magnanimous adj 包容的，心胸宽广的
+(magn-大 anim-生命 ous-adj)
+
+aspire v 渴望
+(a-加强 spir-呼吸(spirit精神) e)
+(呼吸加强 -> 渴望)
+spirit n 精神
+(spir-呼吸 it-走)
+(有呼吸的走 -> 精神)
+
+autonomous adj 自治的
+(auto-自动 nom-1.名字(name) 2.权利 3.控制 ous-adj)
+(能够自主命名的 -> 自治的)
+nominee v 提名
+
+venture n 冒险
+(vent-来 ure-n)
+(待在一个地方 -> 稳定)
+(来回尝试 -> 冒险)
+culture n 文化
+(cult-培养 ure-n)
+
+revenue n 政府/企业的收入
+(re-回 ven/vent-来 ue-n)
+(收回来的钱 -> 收入)
+income n 个人收入
+dialogue n 对话
+(dia-之间 log-说话 ue-n)
+
 * day 6
+blunder n 因粗心犯下的严重错误
+(blund->blind盲目的，瞎的 er-n多表人但这里不是)
+Nature life never makes any blunders when she makes for she means it.
+生活里出现的任何事情，都是它想以一种表现形式来教给你一些道理。
+
+consistency n 一致
+(con-共同 sist-站立(stand) ency/ence-n)
+(都站在一起 -> 一致)
+inconsistency n 矛盾，不一致
+persist v 坚持
+persistence n 坚持
+(per-从头到尾，自始至终(perfect从头做到尾 fect-做) sist-站立)
+(从头站到尾 -> 坚持)
+Because of it persistence a river cut through rock not because of its power but because of its persistence.
+
+starkly adj 明显的
+(star星星 k ly-adj/adv)
+(n+ly-adj friendly)
+(adj+ly-adv clearly)
+
+subsidary adj 附带的，次要的
+(sub-向下 sid-sit ary-adj/n)
+(坐在下面的 -> 附带的，次要的)
+(sub-向下(subway地铁) sid-坐(sit) ary-adj/n)
+president n 总统
+(pre-前 sid-坐 ent-n人)
+(坐在前面的人 -> 总统)
+(ary-adj imaginary adj 想象的，假想的)
+(ary-n dictionary n 字典)
+
+territorial adj 领地的
+(terr-1.害怕 2.土地(Terra大地女神(罗马推拉，希腊盖亚)) it-走 or-n ial-adj)
+(刻意走土地上随意走动的 -> 领地的)
+territory n 领土
+(terr-1.土地 2.害怕 it-走 ory-n)
+Life is un territory.
+生活是一片未开发过的领土。
+
 * day 7
 colossus n 巨大的东西
 (co/com/con-共同 loss失去 us-n)
