@@ -1,56 +1,79 @@
 恐龙的灭绝
 
 paleontologist n古生物学家
-(pale-古代 ont-存在 o-中缀 logist-n专家)
+(paleo/pale/palae-古(old paleo 倒序每次跳一个字母为olp->old) onto-存在(on to存在) logist-n专家)
+(证明古代就存在的学家 -> 古生物学家)
+ontology n存在，本质
+(近年信息科学界最热门的词汇之一，哲学的分支，研究客观事物存在的本质)
 
-demise n灭绝
-(de-消除 mis-发送) 
+demise n死亡，灭绝
+(de-分开 mis-发送 e) 
+(身体分解还回大自然 -> 死亡，灭绝)
 
 alteration n变化
-(alter-其他(other) ation-n)
+(alter-1.其他(other) 2.改变 ation-n)
 
+associate v联系
+(as-去 soc-联系(social) i-中缀 ate-v)
 associated adj与之相关的
-(as-去 soci-联盟 ated-adj)
+(ed-adj)
 
 continent n大陆
 (con-共同 tin-把握，握住 ent-n)
 
 geochemical adj地球化学的，地理化学的
-(geo-打的 chem-化学 ical-adj)
+(geo-地球 chem-化学 ical-adj)
 
 mercy n宽容，怜悯
-(merc-报酬 y-n)
+(merc-交易(Mercury商业之神 速度快->水星 活性大->水银) y-n(位于adj或以r结尾单词后))
 
 maintain v保持
-(main-手 tain-抓住)
+(main/man/manu-手 tain-抓住(take in))
+(用手拿住 -> 保持)
 
+fluctuate v波动
+(fluct-流动(flow流) u-中缀 ate-v)
 fluctuation n起伏
-(fluct-流动 u-中缀 ation-n)
+(v以ate结尾变n以ation结尾)
 
-converntional adj传统的
-(con-共同 vent-来 ion-n al-adj 几代人都这么过来的)
+convention n会议，习俗，公约
+(con-共同 vent-来 ion-n 大家都来参加 -> 会议，习俗)
+conventional adj传统的
+(con-共同 vent-来 ion-n al-adj 大家都是这么过来的)
+tradition n传统
+(trad-移交 it-走 ion-n 代代相传 -> 传统)
+traditional adj传统的
 
 abrupt adj突然的
-(ab-加强 rupt-断裂 断裂都是突然的)
+(ab-离开 rupt-断裂 断裂都是突然的 -> 突然的)
 
 centimeter n厘米
-(cent-百 i-中缀 meter-米)
+(cent-百 i-中缀 meter米)
+(百分之一米 -> 厘米)
 
+corporal adj身体的
+corporate adj公司的
+(corpor-身体 ate-adj)
 incorporate v合并，并入
 (in-进入 corpor-身体 ate-v)
 
+microscope n显微镜
 microscopic adj显微镜的
-(micro-微小 scop-镜子 ic-adj)
+(micro-微小 scope-观察，镜子 ic-adj)
 
+calculate v计算
 calculation n计算
-(calc-石头，计算(古人用石头计算) ul-中缀 ation-n)
+(calc-石头，计算(古人用石头计算) ul-中缀 ate-v ation-n)
 
 asteroid n小行星
-(aster-星星 oid-n小)
+(aster-星星(star) oid-n像..的)
 
+synthesis n合成，综合
+(syn-共同 thes-放置 is)
 photosynthesis n光合作用
-(photo-光 syn-共同 thes-放置 is 把光放在一起共同作用)
+(photo-光 synthesis综合 把光放在一起综合作用 -> 光合作用)
 
 eradicate v根除，灭绝
-(e-向外 radic-根 ate-v)
+(e-向外 rad-根 ic-adj ate-v)
+(向外连根拔起 -> 根除，灭绝)
 

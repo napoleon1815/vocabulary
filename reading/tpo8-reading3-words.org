@@ -1,63 +1,82 @@
 火星上的流水
 
-photographic adj
+photograph n照片 v摄影
+photographic adj摄影的
 (photo-光，照片 grap-书写，记录 ic-adj)
 
-interconnecting adj 交错的
-(inter-在..之间 con-共同 nect-捆绑 ing-adj)
+connect v连接
+(con-共同 nect-连接(neck脖子))
+interconnect v互连
+(inter-在..之间 connect连接)
+interconnecting v互连的
+(ing-adj)
 
+resemble v相似
+(re-加强 semble-相似(sem-same))
 resembalance n相似
-(re-加强 sembal-相似 ance-n)
+(resemble相似 le->al-adj ance-n)
 
 geologist n地质学家
-(geo-土地，地球 logist-n专家)
+(geo-土地(Gaia地母盖亚)，地球 logist-n专家)
 
 atmosphere n大气
-(atmo-蒸汽 sphere-球体)
+(atmo-蒸汽 sphere-球体 大气是由蒸汽形成地球体)
 
 catastrophic adj灾难性的
-(cata-向下 stroph-转动 ic-adj)
+(cata-向下 stroph-转动 ic-adj 急转而下的，灾难性的)
 
+equal adj相等的
+(equ-相等 al-adj)
+equate v等同
 equator n赤道
-(equ-相等 ator-n 赤道把地球分为相等的两半)
+(equat(e)相等 or-n 赤道把地球分为相等的两半)
 
-miniature adj缩小的
-(mini-小 ature-adj)
+miniature adj微小的 n缩影
+(mini-小 ature-adj/n)
 
 speculate v推测
-(spec-看 ul-中缀 ate-v 能看到，估计差不多)
+(spec-看 ul-中缀 ate-v 一直在看 -> 推测，观察)
+suspect v怀疑
+(sus-向下 spect-看 上下打量 -> 怀疑)
+respect v尊敬
+(re-再 spect-看 不由得再高看一眼 -> 尊敬)
 
 adorn v装饰
 (ad-去 orn-装饰)
 
 generate v生成
-(gene-生 r ate-v)
+(gen-生 er-n ate-v)
 
 candidate n候选人
-(cand-白 id-adj ate-n 古罗马候选人都穿着白色的衣服以示纯洁)
+(cand-白，照明(candle蜡烛) id-adj ate-n 古罗马候选人都穿着白色的衣服以示纯洁)
 
-controversial n争议
-(contro-相反 vers-转动 ial-n 总往你相反的方向转，唱反调)
+controversial adj有争议的
+(contro-相反 vers-转动 ial-adj 总往你相反的方向转，唱反调的)
 
 proponent n支持者
-(pro-向前 pon-放置 ent-n人 把东西放在前面)
+(pro-向前 pon-放置 ent-n人 把手放到前面一起加油的人 -> 支持者)
 opponent n反对者
-(op-相反)
+(op-相反 pon-放置 ent-n人 不跟你伸来手击掌的人 -> 反对者)
+detractor n反对者
+(detract贬低 or-n人 到处贬低别人 -> 反对者)
+detract v贬低
+(de-向下 tract-拖，拽，拉 向下拉 -> 贬低)
+
+carbonate n碳酸盐，碳化
+(carbon碳 ate-n酸盐)
+
+astronomer n天文学家
+(astro-星星(star) nomer-n学者)
 
 recede v退去
 (re-回 ced-走 e-v 向回走)
 
-detractor n反对者
-(de-相反 tract-拖，拽，拉 or-n人)
-
 terrace n梯田
-(terr-土地 ace-)
+(terr-1.土地(earth) 2.颤抖，恐惧(fright) ace-n)
 
-carbonate n碳酸盐，碳化
-(carbo-碳)
-
-astronomer n天文学家
-(astro-星星 nomer-n学者)
-
-inconclusive adj不确定的
-(in-不 con-都 clus-关闭(close) ive-adj conclusive都关起来->有结论了)
+conclude v结束，结论
+(con-全部 clud/clus-关闭(close) e 全部关掉 -> 结束)
+conclusive adj结束的，结论的
+(ive-adj)
+inconclusive adj非决定性的，不确定的
+(in-不)
