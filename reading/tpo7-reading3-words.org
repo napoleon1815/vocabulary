@@ -1,70 +1,98 @@
 农业、铁器和班图人
 
 agriculture n农业
-(agri-土地 cult-耕种 ure-n)
+(agri-土地(land) cult-耕种(till conj直到(until) vt耕种) ure-n)
+(在土地上耕种 -> 农业)
 
 scholar n学者
-(schol-学校(school) ar-n人 在学校教书的人)
+(schol-学校(school) ar-n人 待在学校里的人 -> 学者)
 
 secure adj稳定的，安全的
-(se-离开，远离 cur-关心 e)
+(se-分开，没有 cur-关心(care) e)
+(不需要关心的 -> 稳定的，安全的)
+curious adj 关心的，好奇的 (cur-关心(care) ious-adj)
 
 concentration n集中
-(con-加强 centr-中心 ation-n)
+(con-全部 centr-中心(center) ation-n)
+(全部到中心来 -> 集中)
 
 diffuse v传播，分散
-(dis-分散 fus-流淌 e)
+(di/dis/dif-分散 fus-流淌(flow) e)
+(分散着流出 -> (光线)漫射，传播)
 
+receive v接受
+(re-1.再(repeat) 2.回(back) ceive/cept-拿)
+(拿过来 -> 接受)
 receptiveness n接受
-(re-回 cept-拿 ive-adj ness-n 拿回去)
+(receive v接受 ive-adj ness-n)
 
 subsequent adj随后的
-(sub-在..后面 sequ-跟随 ent-adj 跟在后面的)
+(sub-1.在..下面 2.在..后面 sequ/su-跟随(follow) ent-adj 跟在后面的 -> 随之而来的)
 
 apparent adj显然的
-(ap-加强 par-显示，显现 ent-adj)
+(ap-加强 par-显示，显现 ent-adj 显现出来的 -> 显然的)
 
 invader n入侵者
-(in-里 vad-走 er-n人)
+(in-里 vad-走 er-n人 走到里面去 -> 入侵)
+evade v逃避
+(走到外面去 -> 逃避)
+wade v跋涉，(从水、泥等)蹚过
+(w-width 从宽的地方蹚过)
 
 chariot n马车，战车
 (char-车(car) iot-n)
 
 innovation n创新，革新
-(in-加强 nov-新 ation-n)
+(in-加强(朝，向，去) nov-新(new) ation-n)
+(朝着新的方向去 -> 创新)
 
 accessible adj可接近的
-(ac-加强 cess-走 ible-adj 可走过去的)
+(ac-加强(朝，向，去) cess-走 ible-adj 可走过去的)
+(向..走去 -> 可接近的)
 
 curious adj奇怪的，好奇的
 (cur-关心 ious-adj)
 
 intermediate adj中间的
 (inter-中间 medi-中间 ate-adj)
+(上下左右都在中间的 -> 中间的)
 
 society n社会
-(soci-联合，联盟 ety-n)
+(soc-1.联系 2.社会 i-中缀 ety-n)
 
-productive adj生产的
-(pro-在..之前 duct-引导 ive-adj)
+product
+(pro-在..之前 duct-引导)
+(引导推出的东西 -> 产品)
+productive adj 1.生产性的 2.具有创造性的 3.多产的
+(product n 产品 ive-adj)
 
-ingenious adj精致的，精巧的
-(in-加强 gen-生 ious-adj 与生俱来的)
+ingenious adj 1.精巧的，灵巧的 2.聪明的
+(in-里 gen-生 ious-adj 从内心生出来的，与生俱来的 -> 聪明的，精巧的)
 
 carbon n碳
-(carbo-碳，煤 n-n)
+(carbo-碳，碳酸，煤 n-n)
 
 adapt v适应
-(ad-加强 apt-适合)
+(ad-1.加强 2.去，朝，向 apt/ept-1.适应 2.能力(适应是种能力))
+(去适应 -> 适应)
+adept adj 熟练的
+(能力加强的 -> 熟练的)
 
+company n 1.公司 2.伙伴
+(com-共同 pan-面包 y-n)
+(共同吃面包，利益相关 -> 1.公司 2.伙伴)
 accompany v伴随
-(ac-加强 com-共同 pan-面包 y-n company共同吃面包，利益相关->公司)
+(ac-去 company n 1.公司 2.伙伴)
+(去成为伙伴 ->  伴随)
 
+certain adj 确定的 (cert-确定(sure) ain-adj)
 uncertain adj不确定的
-(un-不 cert-相信 ain-adj)
+(un-不 certain adj 确定的)
 
 demographic adj人口统计的
-(demo-人民 graph-书写 ic-adj)
+(demo-人民 graph-书写，记录 ic-adj)
+(用来记录人民的 -> 人口统计的)
 
 desiccation n干旱
 (de-加强 sicc-干燥 ation-n)
+(de-1.离开 2.加强 3.向下 4.相反)

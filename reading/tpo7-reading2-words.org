@@ -1,76 +1,112 @@
 古罗马和古希腊
 
+cohesive adj 团结的
+(co-共同 hes-粘 ive-adj)
+(把大伙粘到一起的 -> 团结的)
 cohesiveness n凝聚力
-(co-共同 hes-粘 ive-adj ness-n 把大伙粘到一起)
+(co-共同 hes-粘 ive-adj ness-n 把大伙粘到一起 -> 凝聚力)
 
+regular adj有规律的，规则的
+(reg-1.统治(rule) 2.规则 ul-中缀 ar-adj)
 regularity n规则
-(reg-统治 ul-中缀 ar-adj ity-n)
+(regular adj规则的 ity-n)
 
 massive adj大块的
-(mass-块 ive-adj)
+(mass n 块 ive-adj)
 
-monolithic adj一块石头的
-(mono-单 lith-石头 ic-adj)
+monolithic adj 1.独块巨石的 2.整体的，庞大的
+(mono-单 lith-石头(rock n 石头 -> thick adj 1.浓/密的 2.厚的 3.粗大的 -> lith-石头) ic-adj)
 
 military adj军事的
-(milit-士兵 ary-adj)
+(milit-1.士兵 2.军事 ary-adj)
 
+minister n部长，牧师
+(mini-1.小 2.管理(微臣) ster-n人)
+(小人，微臣 -> 部长)
+administer v管理
+(ad-去 minister n部长)
+(去做部长 -> 管理)
 administration n行政管理
-(ad-加强 mini-小，管理(微臣) stration-n)
+(administer v 管理 ation-n)
 
-universal adj全体的，统一的
-(uni-统一 vers-转 al-adj)
+universe n宇宙，世界
+(uni-一个 vers-转 统一旋转 -> 宇宙)
+universal adj普遍的，全体的
+(universe n 宇宙，世界 al-adj)
 
-conduct v行动
+conduct v指挥，引导
 (con-全部 duct-引导)
+(引导大家一起做 -> 指挥，引导)
 
-authority n管辖，权威
-(auth-增长 or-n人 ity-n)
+author n 作者，创造者
+(aug/aux/auth-1.威严(August 八月 渥大维) 2.创造，增加 or-n人)
+authority n权威，权利
+(author n作者，创造者 ity-n)
 
+obsess v 沉迷，着迷
+(ob-在..上(toward, against, across, down) sess-坐)
+(一直坐在上面 -> 沉迷，着迷)
 obsession n痴迷
-(ob-相反 sess-坐 ion-n 总坐在对面)
+(obsess v沉迷，着迷 ion-n)
 
 unity n统一
-(un(i)-唯一 ity-n)
+(un-唯一(one) ity-n)
 
 cohesion n团结
 (co-共同 hes-粘 ion-n)
+(全都粘在一起 -> 团结)
+cohesive adj 团结的
 
 territorial adj领土的
 (terr-土地 itor-n ial-adj)
 
-conquest v征服，占领
-(con-加强 quest-询问，追求(question问题))
+conquer v 征服，占领
+conquest n 征服，占领
+(con-加强，去 quer/quest-询问，追求(question问题))
+(去掠夺 -> 征服，占领)
 
-legion n军队
-(leg-聚集 ion-n)
+legion n 众多的人，军队
+(leg/lect-1.选择 2.收集 ion-n)
 
-enphasis n强调
-(en-使 phas-显示 is-n 使处在明显的位置)
+emphasize v强调
+emphasis n强调
+(em/en-使 phas/phan/fant-显示(show) is-n 使处在明显的位置)
 
 instinct n本能
-(in-里 stinct-刺 深入骨髓)
+(in-里 stinct-刺 深入骨髓 -> 本能)
 
 rural adj农村的
 (rur-农村 al-adj)
 
 disgusted adj反感的
-(dis-不好 gust-味道 ed-adj 又不好味道的->引人反感的)
+(dis-不好 gust-味道 ed-adj 有不好味道的->引人反感的)
 
+dispose v 安排，处理
+(dis-分开 pos-放 e)
 predispose v倾向于
-(pre-前 dis-向下 pos-放置 e 之前就放好了的->倾向于)
+(pre-前 dispos v 安排，处理 e 提前就安排好了->倾向于)
 
+imitate v 模仿
+(imit-像(mirror) ate-v 做得相像 -> 模仿)
 imitation n模仿
-(im-相似 it ation-n)
+(imitate v 模仿 ation-n)
 
-inventor n发明者
-(in-加强 vent-来 or-n人)
+invent v 发明
+inventor n 发明者
+(in-进入 vent-来 or-n人)
+(带到世界上来的人 -> 发明者)
 
-intellectual adj智商的，智力的
-(inter/intel-在..之间 lect-挑选 u-中缀 al-adj 能在两者间挑选出来的)
+intellect n 1.智力，理解力 2.知识分子
+(inter/intel-在..之间 lect-1.选择 2.收集)
+(能在两者间挑选出来，辨别的能力 -> 智力)
+intellectual adj 智力的
+(intellect n 1.智力，理解力 2.知识分子 u-中缀 al-adj)
 
-enormous adj无数的，大量的
-(e-向外 norm-数量 ous-adj)
+enormous adj 巨大的
+(e-向外 norm-1.正常(既不也不) 2.规则，规范 ous-adj)
+(超出正常的 -> 巨大的)
 
-sensibility n敏感
+sensible adj 明智的，合乎情理的
+(sens-感觉(sense) ible-adj)
+sensibility n 感性
 (sens-感觉 ibility-n)
