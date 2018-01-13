@@ -1,74 +1,107 @@
 地中海地质历史
 
 mediterranean n地中海
-(medi-中间的 terr-土地 anean-n 被欧亚非三大陆围在中间的地方)
+(med-中间 i-中缀 terr-土地(Terra大地女神特拉) anean(an -> oc ocean n 海洋))
+(大地中间的海 -> 特指被欧亚非三大陆围在中间的地中海)
+terrain n 地形，地势
+terrace n 平台，梯田
 
-objective n目标
-(ob-相反？去 ject-扔 ive-n)
+project n 目标，项目
+(向前扔 -> 目标，项目)
+object n 对象，宾语，目的
+       v 反对
+(ob-朝向 ject-扔)
+(朝着某一方向扔 -> 目的，目标)
+(朝着人扔 -> 反对)
+objective n 目标
+          adj 客观的
+(object-扔 ive-n)
 
-cruise n游轮，游艇
-(cruis-十字)
+cruise n/v 巡航
+(cru-十字，交叉(cross) ise)
 
-invertebrate adj无脊椎的
+vertebra n 脊椎
+(vert-垂直 e bra胸 垂直于胸的是脊椎 -> vertebr-连接)
+vertebrate n 脊椎动物 adj 有脊椎的
+(vertebr-连接，脊椎 ate-n/v)
+invertebrae n 无脊椎动物 adj 无脊椎的
 (in-没有 vertebr-连接，脊椎 ate-adj)
 
 migrate v迁徙
-(migr-移动 ate-v)
+(migr-迁徙 ate-n/v)
+migration n 1.移民 2.移植
 
 determine 决定，明确
-(de-去掉 termin-界限 e)
+(de-向下 termin-界限 e)
+(划定界限 -> 1.确定，明确 2.决定)
 
 detect v探测
-(de-去掉 tect-遮挡，遮盖)
+(de-去掉，向下，离开，相反 tect-遮挡，遮盖)
+(揭开遮盖 -> 探测)
 
+echo n/v 回声
+sounding n 1.征询意见 2.水深测量
 echosounding n回声
 (echo-向回 souding声音)
 
 sample n样本
-(s/ex-向外 ampl-拿 e 拿出来参考的东西)
+(s/se-分开 ampl-拿 e)
+(拿出来参考的东西 -> 样本，范例)
 
 fragment n碎块
-(frag-破碎 ment-n)
+(frag/fract/fric-破碎(break) ment-n)
 
+volcano n火山
+(volcan-火 o-n人物或状态)
+(火神伏尔甘在地底打铁冒烟成为火山)
 volcanic adj火山的
-(volcan-火 ic-adj)
+(volvo沃尔沃 -> volcano伏尔甘，火)
+evolve v进化
+(e-向外 volv-卷 e)
+(把外面的事物卷进来，不断发展壮大 -> 进化)
+(volvo沃尔沃 -> 去掉车轮子o，volv-卷，转，滚动)
 
 peculiarity n特性
 (pecu-私有，特性 liar-adj ity-n)
 
-interbed v把..夹在中间
-(inter-在..中间 bed床，层)
+interbed n夹层
+(inter-在..中间 bed床 -> 床里面的是夹层)
 
-formulate v创立，建立
-(form-形状 ul-中缀 ate-v)
+formula n公式(form-形状(shape) ul-中缀 a-n小)
+formulate v 1.制订 2.认真阐述 (ate-v)
 
-crustal adj外壳的
-(cru-坚硬，壳 stal-adj)
+crustal adj地壳的(尤指地球或月球的地壳的)
+(cru/crust-坚硬，壳 al-adj)
 
+exterminate vt消灭，根除
+(ex-出 termin-界限(limit) ate-n/v)
+(赶到界限外面，赶尽杀绝 -> 根除)
 extermination n灭绝
-(ex-向外 termin-界限 ation-n)
 
-tolerant adj耐力的
-(tol-忍受 er ant-adj)
+tolerant adj 1.忍受的 2.耐力强的
+(tol=忍受(bear) er-n ant-adj)
 
 precipitate v沉淀
 (pre-前 cip-头 it-走 ate-v)
+(头超前地往前走，降落 -> 降水，沉淀)
 
-soluble adj可溶解的
-(solu-松开，溶解 (a)ble-adj能)
+soluble adj 1.可溶解的 2.可解决的
+(solu-松开，溶解(loose,solution) (a/i)ble-adj能)
 
 chloride n氯化物
-(chlor-绿色 ide-n)
+(chlor-绿色，氯 ide-n化学名词后缀)
 
-deluge n倾盆大雨
-(de-向下 lug-洗 e)
+deluge n 1.洪水 2.倾盆大雨
+(de-去掉，向下，离开，相反 lav/luv/lug/lut/lau-洗 e)
 
 adjustment n调整
 (ad-去 just-直 ment-n 做调整使变直)
 
+spectacle n 1.眼镜 2.壮观的景象 3.奇特的景象
+(spect-看 acle-n)
 spectacular adj壮观的
-(spect-看 acular-adj)
+(ar-adj)
 
-turbulent adj狂躁的
-(turb-搅动 ul-中缀 ent-adj)
-
+turbulent adj混乱的
+(turb-搅动(disturb dis-分开 搅乱了 -> 打搅) ul-中缀 ent-adj多)
+(到处都在搅动 -> 混乱的)
